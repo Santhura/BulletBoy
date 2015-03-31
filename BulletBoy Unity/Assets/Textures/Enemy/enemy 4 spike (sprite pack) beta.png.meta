@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 237683e72fa60cb479457125ba12856d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: enemy 4 spike (sprite pack) beta
+    21300002: enemy 4 spike (sprite pack) beta_0
+    21300004: enemy 4 spike (sprite pack) beta_1
+    21300006: enemy 4 spike (sprite pack) beta_2
+    21300008: enemy 4 spike (sprite pack) beta_3
+    21300010: enemy 4 spike (sprite pack) beta_4
+    21300012: enemy 4 spike (sprite pack) beta_5
+    21300014: enemy 4 spike (sprite pack) beta_6
+    21300016: enemy 4 spike (sprite pack) beta_7
+    21300018: enemy 4 spike (sprite pack) beta_8
+    21300020: enemy 4 spike (sprite pack) beta_9
+    21300022: enemy 4 spike (sprite pack) beta_10
+    21300024: enemy 4 spike (sprite pack) beta_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: enemy 4 spike (sprite pack) beta_0
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 657
+        width: 67
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 4 spike (sprite pack) beta_1
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 684
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 4 spike (sprite pack) beta_2
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 684
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 4 spike (sprite pack) beta_3
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 674
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 4 spike (sprite pack) beta_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 427
+        width: 146
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 4 spike (sprite pack) beta_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 214
+        width: 147
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 4 spike (sprite pack) beta_6
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 217
+        width: 146
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 4 spike (sprite pack) beta_7
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 214
+        width: 147
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 4 spike (sprite pack) beta_8
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 217
+        width: 147
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 4 spike (sprite pack) beta_9
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 0
+        width: 147
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 4 spike (sprite pack) beta_10
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 0
+        width: 146
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 4 spike (sprite pack) beta_11
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 0
+        width: 103
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

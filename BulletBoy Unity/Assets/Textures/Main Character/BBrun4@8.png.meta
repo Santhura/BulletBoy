@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: 10f85f6d24dcafd4f901d65859130a0b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BBrun4@8
+    21300002: BBrun4@8_0
+    21300004: BBrun4@8_1
+    21300006: BBrun4@8_2
+    21300008: BBrun4@8_3
+    21300010: BBrun4@8_4
+    21300012: BBrun4@8_5
+    21300014: BBrun4@8_6
+    21300016: BBrun4@8_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 105
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Web
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: BBrun4@8_0
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 139
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BBrun4@8_1
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1
+        width: 138
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BBrun4@8_2
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 24
+        width: 182
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BBrun4@8_3
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 0
+        width: 157
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BBrun4@8_4
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 0
+        width: 130
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BBrun4@8_5
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 0
+        width: 130
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BBrun4@8_6
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 24
+        width: 181
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BBrun4@8_7
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 0
+        width: 155
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: 50e1cdb105b8dbf4d92fd22836c40ecc
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: enemy 1 bomb (sprite pack) beta
+    21300002: enemy 1 bomb (sprite pack) beta_0
+    21300004: enemy 1 bomb (sprite pack) beta_1
+    21300006: enemy 1 bomb (sprite pack) beta_2
+    21300008: enemy 1 bomb (sprite pack) beta_3
+    21300010: enemy 1 bomb (sprite pack) beta_4
+    21300012: enemy 1 bomb (sprite pack) beta_5
+    21300014: enemy 1 bomb (sprite pack) beta_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+  - buildTarget: Web
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: enemy 1 bomb (sprite pack) beta_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 398
+        width: 98
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 1 bomb (sprite pack) beta_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 101
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 1 bomb (sprite pack) beta_2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 1 bomb (sprite pack) beta_3
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 15
+        width: 81
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 1 bomb (sprite pack) beta_4
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 41
+        width: 101
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 1 bomb (sprite pack) beta_5
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 18
+        width: 79
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 1 bomb (sprite pack) beta_6
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1
+        width: 110
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

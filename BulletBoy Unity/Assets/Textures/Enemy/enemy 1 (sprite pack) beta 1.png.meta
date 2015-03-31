@@ -1,0 +1,331 @@
+fileFormatVersion: 2
+guid: 44e949b3c51517a438e92fac6512d8d0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: enemy 1 (sprite pack) beta 1
+    21300002: enemy 1 (sprite pack) beta 1_0
+    21300004: enemy 1 (sprite pack) beta 1_1
+    21300006: enemy 1 (sprite pack) beta 1_2
+    21300008: enemy 1 (sprite pack) beta 1_3
+    21300010: enemy 1 (sprite pack) beta 1_4
+    21300012: enemy 1 (sprite pack) beta 1_5
+    21300014: enemy 1 (sprite pack) beta 1_6
+    21300016: enemy 1 (sprite pack) beta 1_7
+    21300018: enemy 1 (sprite pack) beta 1_8
+    21300020: enemy 1 (sprite pack) beta 1_9
+    21300022: enemy 1 (sprite pack) beta 1_10
+    21300024: enemy 1 (sprite pack) beta 1_11
+    21300026: enemy 1 (sprite pack) beta 1_12
+    21300028: enemy 1 (sprite pack) beta 1_13
+    21300030: enemy 1 (sprite pack) beta 1_14
+    21300032: enemy 1 (sprite pack) beta 1_19
+    21300034: enemy 1 (sprite pack) beta 1_20
+    21300036: enemy 1 (sprite pack) beta 1_25
+    21300038: enemy 1 (sprite pack) beta 1_26
+    21300040: enemy 1 (sprite pack) beta 1_27
+    21300042: enemy 1 (sprite pack) beta 1_28
+    21300044: enemy 1 (sprite pack) beta 1_31
+    21300046: enemy 1 (sprite pack) beta 1_33
+    21300048: enemy 1 (sprite pack) beta 1_34
+    21300050: enemy 1 (sprite pack) beta 1_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+  - buildTarget: Web
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: enemy 1 (sprite pack) beta 1_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 649
+        width: 99
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 1 (sprite pack) beta 1_1
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 712
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 1 (sprite pack) beta 1_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 469
+        width: 99
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 1 (sprite pack) beta 1_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 468
+        width: 100
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 1 (sprite pack) beta 1_4
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 469
+        width: 98
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 1 (sprite pack) beta 1_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 251
+        width: 107
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 1 (sprite pack) beta 1_6
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 275
+        width: 97
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 1 (sprite pack) beta 1_7
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 288
+        width: 100
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 1 (sprite pack) beta 1_8
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 279
+        width: 97
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 1 (sprite pack) beta 1_9
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 251
+        width: 107
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 1 (sprite pack) beta 1_10
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 248
+        width: 108
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 1 (sprite pack) beta 1_11
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 300
+        width: 97
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 1 (sprite pack) beta 1_12
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 323
+        width: 99
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 1 (sprite pack) beta 1_13
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 292
+        width: 97
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 1 (sprite pack) beta 1_14
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 251
+        width: 106
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 1 (sprite pack) beta 1_19
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 0
+        width: 98
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 1 (sprite pack) beta 1_20
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 0
+        width: 99
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 1 (sprite pack) beta 1_25
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 99
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 1 (sprite pack) beta 1_26
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 99
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 1 (sprite pack) beta 1_27
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 0
+        width: 98
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 1 (sprite pack) beta 1_28
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 0
+        width: 103
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 1 (sprite pack) beta 1_31
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1
+        width: 141
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 1 (sprite pack) beta 1_33
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 0
+        width: 109
+        height: 162
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 1 (sprite pack) beta 1_34
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 0
+        width: 109
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 1 (sprite pack) beta 1_35
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 0
+        width: 107
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

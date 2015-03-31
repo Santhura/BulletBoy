@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: cb77647f9e37fb74586351f842dbeb7e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: enemy 2 bomber (sprite pack) beta
+    21300002: enemy 2 bomber (sprite pack) beta_0
+    21300004: enemy 2 bomber (sprite pack) beta_1
+    21300006: enemy 2 bomber (sprite pack) beta_2
+    21300008: enemy 2 bomber (sprite pack) beta_3
+    21300010: enemy 2 bomber (sprite pack) beta_4
+    21300012: enemy 2 bomber (sprite pack) beta_5
+    21300014: enemy 2 bomber (sprite pack) beta_6
+    21300016: enemy 2 bomber (sprite pack) beta_7
+    21300018: enemy 2 bomber (sprite pack) beta_8
+    21300020: enemy 2 bomber (sprite pack) beta_9
+    21300022: enemy 2 bomber (sprite pack) beta_12
+    21300024: enemy 2 bomber (sprite pack) beta_13
+    21300026: enemy 2 bomber (sprite pack) beta_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Web
+    maxTextureSize: 4096
+    textureFormat: -3
+    compressionQuality: 50
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: enemy 2 bomber (sprite pack) beta_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 469
+        width: 172
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 2 bomber (sprite pack) beta_1
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 469
+        width: 172
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 2 bomber (sprite pack) beta_2
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 472
+        width: 171
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 2 bomber (sprite pack) beta_3
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 472
+        width: 172
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 2 bomber (sprite pack) beta_4
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 356
+        width: 172
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 2 bomber (sprite pack) beta_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 356
+        width: 172
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 2 bomber (sprite pack) beta_6
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 354
+        width: 174
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 2 bomber (sprite pack) beta_7
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 354
+        width: 172
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 2 bomber (sprite pack) beta_8
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 356
+        width: 172
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 2 bomber (sprite pack) beta_9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 171
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 2 bomber (sprite pack) beta_12
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 162
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 2 bomber (sprite pack) beta_13
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 155
+        width: 114
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy 2 bomber (sprite pack) beta_15
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 139
+        width: 142
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
