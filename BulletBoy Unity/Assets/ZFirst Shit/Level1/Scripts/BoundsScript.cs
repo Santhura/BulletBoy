@@ -9,7 +9,7 @@ public class BoundsScript : MonoBehaviour {
 	//Check if the player collides with the bounds object
 	// and bounds the player to a specific target
 	void OnCollisionEnter2D(Collision2D collision){
-		Player player = collision.gameObject.GetComponent<Player> ();
+		PlayerEngine player = collision.gameObject.GetComponent<PlayerEngine> ();
 
 		if (player != null) {
 			isPlayerBounds = true;		
@@ -17,7 +17,7 @@ public class BoundsScript : MonoBehaviour {
 		if (isPlayerBounds) {
 			player.GetComponent<Rigidbody2D>().velocity = (target.transform.position - this.transform.position);
 
-			if(player.isOnGround == true){
+			if(player.grounded == true){
 				player.GetComponent<Rigidbody>().velocity = Vector2.zero;
 			}
 		}

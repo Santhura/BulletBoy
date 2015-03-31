@@ -3,7 +3,7 @@ using System.Collections;
 
 public class PlayerEngine : MonoBehaviour {
 
-    private float _speed = .1f, _maxSpeed = 60;
+    private float _speed = .5f, _maxSpeed = 21;
     public string walkInput;
     Rigidbody2D rb;
 
@@ -11,7 +11,7 @@ public class PlayerEngine : MonoBehaviour {
     public float jumpForce;
     public Transform groundCheck;
     private float radius = 0.2f;
-    private bool grounded = false;
+    public bool grounded = false;
     public LayerMask whatIsGround;
     private int _jumps = 0, _maxJumps = 2;
 
