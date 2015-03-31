@@ -62,13 +62,15 @@ public class PlayerEngine : MonoBehaviour {
             }
         }
 
-        // Jumping
         if (Input.GetButtonDown("Jump") && _jumps < _maxJumps)
         {
             Jump();
         }
     }
-
+    /// <summary>
+    /// Method for jumping
+    /// adds a jumpforce when player jumps and set animation
+    /// </summary>
     private void Jump()
     {
         anim.SetBool("Ground", false);
