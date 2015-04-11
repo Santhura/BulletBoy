@@ -7,7 +7,7 @@ public class Camera2D : MonoBehaviour {
 
 	public Vector2 margin, smoothing;
 
-	public BoxCollider2D bounds;
+	public PolygonCollider2D bounds;
 	private Vector3 _min, _max;
 
 	public bool isFollowing { get; set;} 
