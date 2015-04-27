@@ -4,7 +4,7 @@ using UnityEngine.UI;
 
 public class Player : MonoBehaviour
 {
-    private float speed = 5, angle, bulletSpeed = 10000;
+    private float speed = 3, angle, bulletSpeed = 10000;
     public string inputV; //vertical input
     public GameObject bulletPrefab;
     GameObject bullet;

@@ -24,5 +24,9 @@ public class Bullet : MonoBehaviour {
             Instantiate(particleHit, new Vector3(transform.position.x,transform.position.y, -1), Quaternion.identity);
             Destroy(gameObject);
         }
+        if (other.gameObject.tag == "Wall")
+        {
+            Destroy(gameObject);
+        }
     }
 }

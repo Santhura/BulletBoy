@@ -3,7 +3,7 @@ using System.Collections;
 
 public class PlaneGrid : MonoBehaviour {
 
-    int cols = 50, rows = 50;
+    int cols = 80, rows = 80;
     public GameObject gridLines;
 	// Use this for initialization
 	void Start () {
@@ -11,8 +11,8 @@ public class PlaneGrid : MonoBehaviour {
         {
             for (int x = 0; x < rows; x++)
             {
-                Instantiate(gridLines, new Vector2(-18 + y , 0), Quaternion.identity);
-                Instantiate(gridLines, new Vector2(0, 33 - x), new Quaternion(transform.rotation.x, transform.rotation.y,90, 90));
+                Instantiate(gridLines, new Vector2(-27 + y , 0), Quaternion.identity);
+                Instantiate(gridLines, new Vector2(0, 40 - x), new Quaternion(transform.rotation.x, transform.rotation.y,90, 90));
             }
         }
 	}
