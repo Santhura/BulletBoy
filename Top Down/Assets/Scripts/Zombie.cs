@@ -17,7 +17,7 @@ public class Zombie : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-       // healthBar.transform.position = new Vector3(transform.position.x, transform.position.y + .5f, healthBar.transform.position.z);
+        healthBar.transform.position = new Vector3(transform.position.x, transform.position.y + .5f, healthBar.transform.position.z);
         healthBar.fillAmount = health;
         Flocking(transform.position, radius);
 	}
