@@ -12,9 +12,13 @@ public class Bullet : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-	
+
 	}
 
+    /// <summary>
+    /// when the bullet collides with something do damage and destory the bullet or just destroy the bullet
+    /// </summary>
+    /// <param name="other"></param>
     void OnCollisionEnter2D(Collision2D other)
     {
         Zombie zombie = other.gameObject.GetComponent<Zombie>();

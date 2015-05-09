@@ -1,19 +1,21 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class PlaneGrid : MonoBehaviour {
+public class PlaneGrid : MonoBehaviour
+{
 
-    int cols = 80, rows = 80;
+    int grid = 70;
     public GameObject gridLines;
-	// Use this for initialization
-	void Start () {
-        for (int y = 0; y < cols; y++)
+    GameObject horizontalLines, verticalLines;
+    // Use this for initialization
+    void Start()
+    {
+        for (int i = 0; i < grid; i++)
         {
-            for (int x = 0; x < rows; x++)
-            {
-                Instantiate(gridLines, new Vector2(-27 + y , 0), Quaternion.identity);
-                Instantiate(gridLines, new Vector2(0, 40 - x), new Quaternion(transform.rotation.x, transform.rotation.y,90, 90));
-            }
+            verticalLines = Instantiate(gridLines, new Vector2(-35 + i, 0), Quaternion.identity) as GameObject;
+            horizontalLines = Instantiate(gridLines, new Vector2(0, 35 - i), new Quaternion(transform.rotation.x, transform.rotation.y, 90, 90)) as GameObject;
+            horizontalLines.transform.parent = GameObject.Find("GroundLines").transform;
+            verticalLines.transform.parent = GameObject.Find("GroundLines").transform;
         }
-	}
+    }
 }

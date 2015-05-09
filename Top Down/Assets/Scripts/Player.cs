@@ -41,8 +41,8 @@ public class Player : MonoBehaviour
         lookPos = Camera.main.ScreenToWorldPoint(mousePos);
         lookPos.x -= transform.position.x;
         lookPos.y -= transform.position.y;
-        angle = Mathf.Atan2(lookPos.y, lookPos.x) * Mathf.Rad2Deg;
-        transform.rotation = Quaternion.AngleAxis(angle, Vector3.forward);
+        angle = Mathf.Atan2(lookPos.y, lookPos.x) * Mathf.Rad2Deg; //calculate the angle from lookpos x and y multiplied by 360 / (PI * 2)
+        transform.rotation = Quaternion.AngleAxis(angle, Vector3.forward); //updates the rotation of the player by the angle
 
         float Yas = Input.GetAxis(inputV) * speed * Time.deltaTime;
         transform.Translate(Yas, 0, 0);
