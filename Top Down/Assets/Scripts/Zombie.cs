@@ -128,7 +128,6 @@ public class Zombie : MonoBehaviour {
         }
     }
 
-     
     private IEnumerable StartTick(float freq)
     {
         Debug.Log("come on");
@@ -138,7 +137,6 @@ public class Zombie : MonoBehaviour {
 
     private void RadarScan()
     {
-        
         neighbors.Clear();
         detected = Physics.OverlapSphere(transform.position, radius, radarLayers);
 
