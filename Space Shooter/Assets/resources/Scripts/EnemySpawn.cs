@@ -30,7 +30,7 @@ public class EnemySpawn : MonoBehaviour {
                 if (spawnTime < 1)
                 {
                     spawnPos = new Vector3(Random.Range(-4, 5), 0, Random.Range(-2, 15));
-                    initEnemy = Instantiate(enemy, spawnPos, Quaternion.identity) as GameObject;
+                    initEnemy = Instantiate(enemy, spawnPos, new Quaternion(0,-180,0,0)) as GameObject;
                     spawnTime = prevSpawnTime;
                     spawnCounter++;
                 }

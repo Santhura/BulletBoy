@@ -24,7 +24,7 @@ public class PlayerScript : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        player = ReInput.players.GetPlayer(0);
+      //  player = ReInput.players.GetPlayer(0);
         rb = GetComponent<Rigidbody>();
 	}
 	
@@ -37,79 +37,46 @@ public class PlayerScript : MonoBehaviour {
 
     private void Movement(float speedX, float speedY)
     {
-        float Xas = Input.GetAxis("Horizontal") * speedX * Time.deltaTime;
-        float Zas = Input.GetAxis("Vertical") * speedY * Time.deltaTime;
+       /* float Xas = player.GetAxis("Horizontal") * speedX * Time.deltaTime;
+        float Zas = player.GetAxis("Vertical") * speedY * Time.deltaTime;*/
 
-        if (Input.GetAxis("Horizontal") > .9f)
+        if (/*player.GetAxis("Horizontal") > .4f || player.GetButton("Move Horizontal") ||*/ Input.GetAxis("Horizontal") > .1f)
         {
-            rb.velocity = new Vector3(Xas, 0, 0);
+            rb.velocity = new Vector3(speedX * maxSpeed, rb.velocity.y, rb.velocity.z);
             transform.eulerAngles = new Vector3(0, 180, 20);
         }
-        else if (Input.GetAxis("Horizontal") < -.9f)
+        else if (/*player.GetAxis("Horizontal") < -.4f || player.GetNegativeButton("Move Horizontal") ||*/ Input.GetAxis("Horizontal") < -.1f)
         {
-            rb.velocity = new Vector3(Xas, 0, 0);
+            rb.velocity = new Vector3(-speedX * maxSpeed, rb.velocity.y, rb.velocity.z);
             transform.eulerAngles = new Vector3(0, 180, -20);
         }
-        else if (Input.GetAxis("Horizontal") > -.9f && Input.GetAxis("Horizontal") < .9f)
+        else if (/*player.GetAxis("Horizontal") > -.4f && player.GetAxis("Horizontal") < .4f ||*/ Input.GetAxis("Horizontal") > -.1f && Input.GetAxis("Horizontal") < .1f)
         {
             transform.eulerAngles = new Vector3(0, 180, 0);
         }
 
-        if (Input.GetAxis("Vertical") > .9f)
+        if (/*player.GetAxis("Vertical") > .4f || player.GetButton("Move Vertical") ||*/ Input.GetAxis("Vertical") > .1f)
         {
-            rb.velocity = new Vector3(0, 0, Zas);
+            rb.velocity = new Vector3(rb.velocity.x, rb.velocity.y, speedY * maxSpeed);
             transform.eulerAngles = new Vector3(-10, 180, 0);
         }
-        else if (Input.GetAxis("Vertical") < -.9f)
+        else if (/*player.GetAxis("Vertical") < -.4f || player.GetNegativeButton("Move Vertical") ||*/ Input.GetAxis("Vertical") < -.1f)
         {
-            rb.velocity = new Vector3(0, 0, Zas);
+            rb.velocity = new Vector3(rb.velocity.x, rb.velocity.y, -speedY * maxSpeed);
             transform.eulerAngles = new Vector3(10, 180, 0);
         }
-
-        #region controller movement
-        //Todo: fix the input for keyboard and controller
-
-        // Horizontal Movement
-        /* if (player.GetButton("Move Horizontal")) 
-         {
-             if (rb.velocity.x > -maxSpeed)
-             {
-                 rb.velocity = new Vector3(-accel * speedX, rb.velocity.y, rb.velocity.z);
-             }
-         }
-         else if (player.GetNegativeButton("Move Horizontal"))
-         {
-             if (rb.velocity.x < maxSpeed)
-             {
-                 rb.velocity = new Vector3(accel * speedX, rb.velocity.y, rb.velocity.z);
-             }
-         }
-         // vertical movement
-         if (player.GetButton("Move Vertical"))
-         {
-             if (rb.velocity.y > -maxSpeed)
-             {
-                 rb.velocity = new Vector3(rb.velocity.x, -accel * speedY, rb.velocity.z);
-             }
-         }
-         else if (player.GetNegativeButton("Move Vertical"))
-         {
-             if (rb.velocity.y < maxSpeed)
-             {
-                 rb.velocity = new Vector3(rb.velocity.x, accel * speedY, rb.velocity.z);
-             }
-         }*/
-        #endregion
     }
 
     private void Shooting(float ShotSpeed)
     {
-        if (player.GetButtonDown("X Button") || Input.GetKeyDown(KeyCode.Space))
+        if (/*player.GetButtonDown("X Button") ||*/ Input.GetKeyDown(KeyCode.Space))
         {
            bullets = Instantiate(bulletPrefab, gameObject.transform.FindChild("Cannon").position, new Quaternion(90,0,0,90)) as GameObject;
+           bullets.name = "PlayerBullet";
            Physics.IgnoreCollision(gameObject.GetComponent<Collider>(), bullets.GetComponent<Collider>());
-           bullets.GetComponent<Rigidbody>().AddForce(Vector3.forward * ShotSpeed * Time.deltaTime);
+           Physics.IgnoreCollision(gameObject.GetComponent<Collider>(), bullets.GetComponent<SphereCollider>());
         }
+        
         Destroy(bullets, 2);
     }
 
