@@ -10,12 +10,13 @@ public class EnemyScript : MonoBehaviour {
     public float shotSpeed = 80000;
 
     private GameObject prefabBullet, bullet;
-    public bool canShoot = true;
+    public bool canShoot;
 
 	// Use this for initialization
 	void Start () {
         prefabBullet = Resources.Load("Prefabs/Enemy Bullet", typeof(GameObject)) as GameObject;
-	}
+        canShoot = true;
+    }
 	
 	// Update is called once per frame
 	void Update () {
@@ -40,7 +41,7 @@ public class EnemyScript : MonoBehaviour {
         {
             bullet = Instantiate(prefabBullet, gameObject.transform.FindChild("Cannon").position, new Quaternion(270, 0, 0, -270)) as GameObject;
             bullet.name = "EnemyBullet";
-            Physics.IgnoreCollision(gameObject.GetComponent<Collider>(), bullet.GetComponent<Collider>());
+            //Physics.IgnoreCollision(gameObject.GetComponent<Collider>(), bullet.GetComponent<Collider>());
             Physics.IgnoreCollision(gameObject.GetComponent<Collider>(), bullet.GetComponent<SphereCollider>());
         }
         else if (gameObject == null)

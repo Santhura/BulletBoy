@@ -1,11 +1,11 @@
 ﻿using UnityEngine;
 using System.Collections;
-using Rewired;
+//using Rewired;
 using UnityEngine.UI;
 
 public class PlayerScript : MonoBehaviour {
 
-    private Player player;
+    //private Player player;
     private Rigidbody rb;
 
     [Header("Movement")]
@@ -69,11 +69,11 @@ public class PlayerScript : MonoBehaviour {
 
     private void Shooting(float ShotSpeed)
     {
-        if (/*player.GetButtonDown("X Button") ||*/ Input.GetKeyDown(KeyCode.Space))
+        if (/*player.GetButtonDown("X Button") ||*/ Input.GetButtonDown("Jump"))
         {
            bullets = Instantiate(bulletPrefab, gameObject.transform.FindChild("Cannon").position, new Quaternion(90,0,0,90)) as GameObject;
            bullets.name = "PlayerBullet";
-           Physics.IgnoreCollision(gameObject.GetComponent<Collider>(), bullets.GetComponent<Collider>());
+          // Physics.IgnoreCollision(gameObject.GetComponent<Collider>(), bullets.GetComponent<Collider>());
            Physics.IgnoreCollision(gameObject.GetComponent<Collider>(), bullets.GetComponent<SphereCollider>());
         }
         
