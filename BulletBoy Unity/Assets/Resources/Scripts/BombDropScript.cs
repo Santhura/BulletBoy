@@ -3,7 +3,6 @@ using System.Collections;
 
 public class BombDropScript : MonoBehaviour {
 
-    float fallingSpeed = 3;
     Animator anim;
 	// Use this for initialization
 	void Start () {
@@ -20,6 +19,7 @@ public class BombDropScript : MonoBehaviour {
      if(col.transform.tag != "Enemy")
         anim.SetTrigger("Explode");
         
+
         if (col.transform.tag == "Player")
         {
             // do something

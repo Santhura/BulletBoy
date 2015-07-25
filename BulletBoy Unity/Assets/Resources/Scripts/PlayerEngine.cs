@@ -40,6 +40,9 @@ public class PlayerEngine : MonoBehaviour
         if (grounded) { _jumps = 0; }
 
         Movement();
+
+        if (transform.position.y < GameObject.Find("Death Point").transform.position.y)
+            Destroy(gameObject);
     }
 
     /// <summary>

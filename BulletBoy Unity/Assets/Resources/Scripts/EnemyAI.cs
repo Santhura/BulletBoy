@@ -41,9 +41,9 @@ public abstract class EnemyAI : MonoBehaviour {
         hit = Physics2D.OverlapCircle(objectCheck.position, radius, whatIsGround);
 
         if (hit) { walkingRight = !walkingRight; }
-        if (GetComponent<Renderer>().IsVisibleFrom(Camera.main)) { Spawn(); } else { hasSpawned = false; }
+        if (GetComponent<Renderer>().IsVisibleFrom(Camera.main)) { hasSpawned = true; }/* else { hasSpawned = false; }*/
 
-        if (Spawn())
+        if (hasSpawned)
         {
             EnemyBehavior();
             FlyingAttack();
@@ -56,6 +56,8 @@ public abstract class EnemyAI : MonoBehaviour {
             }
         }
 
+        if (transform.position.y < GameObject.Find("Death Point").transform.position.y)
+            Destroy(gameObject);
 	}
 
     void EnemyBehavior()
@@ -64,7 +66,7 @@ public abstract class EnemyAI : MonoBehaviour {
         {
             anim.SetTrigger("Walk");
             transform.Translate(-Vector2.right * speed * Time.deltaTime);
-            if (enemyType == "Flying")
+            if (enemyType == "Flying" || enemyType == "Spike")
             {
                 transform.localScale = new Vector3(1, 1, 1);
             }
@@ -77,7 +79,7 @@ public abstract class EnemyAI : MonoBehaviour {
         {
             anim.SetTrigger("Walk");
             transform.Translate(Vector2.right * speed * Time.deltaTime);
-            if (enemyType == "Flying")
+            if (enemyType == "Flying" || enemyType == "Spike")
             {
                 transform.localScale = new Vector3(-1, 1, 1);
             }
@@ -88,10 +90,6 @@ public abstract class EnemyAI : MonoBehaviour {
         }
     }
 
-    bool Spawn()
-    {
-       return hasSpawned = true;
-    }
 
     /// <summary>
     /// A method for the flying bomb enemy for attacking
@@ -110,7 +108,7 @@ public abstract class EnemyAI : MonoBehaviour {
             }
             else
             {
-                anim.SetBool("Attack", false);
+              //  anim.SetBool("Attack", false);
             }
         }
     }
