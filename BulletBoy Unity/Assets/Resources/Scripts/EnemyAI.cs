@@ -108,7 +108,7 @@ public abstract class EnemyAI : MonoBehaviour {
             }
             else
             {
-              //  anim.SetBool("Attack", false);
+                //anim.SetBool("Attack", false);
             }
         }
     }
