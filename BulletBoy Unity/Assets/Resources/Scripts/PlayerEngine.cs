@@ -72,6 +72,7 @@ public class PlayerEngine : MonoBehaviour
     /// </summary>
     private void Jump()
     {
+        // todo:: change this to something better
         if (grounded || !grounded && _jumps == 1)
         {
             anim.SetBool("Ground", grounded);
