@@ -66,7 +66,7 @@ public abstract class EnemyAI : MonoBehaviour {
         {
             anim.SetTrigger("Walk");
             transform.Translate(-Vector2.right * speed * Time.deltaTime);
-            if (enemyType == "Flying" || enemyType == "Spike")
+            if (enemyType == "Spike")
             {
                 transform.localScale = new Vector3(1, 1, 1);
             }
@@ -74,12 +74,15 @@ public abstract class EnemyAI : MonoBehaviour {
             {
                 transform.localScale = new Vector3(-1, 1, 1);
             }
+            else if(enemyType == "Flying")
+                transform.localScale = new Vector3(1.5f, 1.5f, 1);
+
         }
         else
         {
             anim.SetTrigger("Walk");
             transform.Translate(Vector2.right * speed * Time.deltaTime);
-            if (enemyType == "Flying" || enemyType == "Spike")
+            if (enemyType == "Spike")
             {
                 transform.localScale = new Vector3(-1, 1, 1);
             }
@@ -87,6 +90,8 @@ public abstract class EnemyAI : MonoBehaviour {
             {
                 transform.localScale = new Vector3(1, 1, 1);
             }
+            else if (enemyType == "Flying")
+                transform.localScale = new Vector3(-1.5f, 1.5f, 1);
         }
     }
 
@@ -104,7 +109,7 @@ public abstract class EnemyAI : MonoBehaviour {
                 dropCoolDown = dropRate;
 
                 GameObject bombDrop = Instantiate(Resources.Load("Prefabs/Enemies/Bomb", typeof(GameObject))) as GameObject;
-                bombDrop.transform.position = new Vector3(gameObject.transform.FindChild("DropPlace").position.x,gameObject.transform.FindChild("DropPlace").position.y, 1);
+                bombDrop.transform.position = new Vector3(gameObject.transform.FindChild("DropPlace").position.x, gameObject.transform.FindChild("DropPlace").position.y, 1);
             }
             else
             {

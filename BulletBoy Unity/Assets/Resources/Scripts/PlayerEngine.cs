@@ -72,9 +72,16 @@ public class PlayerEngine : MonoBehaviour
     /// </summary>
     private void Jump()
     {
-        anim.SetBool("Ground", grounded);
-        rb.velocity = new Vector2(rb.velocity.x, 0);
-        rb.AddForce(new Vector2(0, jumpForce));
-        _jumps++;
+        if (grounded || !grounded && _jumps == 1)
+        {
+            anim.SetBool("Ground", grounded);
+            rb.velocity = new Vector2(rb.velocity.x, 0);
+            rb.AddForce(new Vector2(0, jumpForce));
+            _jumps++;
+        }
+        else if (!grounded && rb.velocity.y > .1f)
+        {
+
+        }
     }
 }
