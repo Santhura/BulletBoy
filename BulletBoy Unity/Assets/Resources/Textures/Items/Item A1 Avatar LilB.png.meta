@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 86dc12d0598016b45a15b8712554d035
+timeCreated: 1451339563
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Item A1 Avatar LilB_3
+    21300002: Item A1 Avatar LilB_4
+    21300004: Item A1 Avatar LilB_5
+    21300006: Item A1 Avatar LilB_6
+    21300008: Item A1 Avatar LilB_7
+    21300010: Item A1 Avatar LilB_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Item A1 Avatar LilB_3
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 750
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.8555555, y: 21.333374}
+        - {x: -14.855556, y: 11.333374}
+        - {x: -15.855556, y: 6.333374}
+        - {x: -15.855556, y: -20.666626}
+        - {x: 12.144444, y: -20.666626}
+        - {x: 17.144444, y: -17.666626}
+        - {x: 17.144444, y: 9.333374}
+        - {x: 6.1444445, y: 21.333374}
+    - name: Item A1 Avatar LilB_4
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 752
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.3444443, y: 21.755554}
+        - {x: -7.6555557, y: 21.755554}
+        - {x: -15.655556, y: 12.755554}
+        - {x: -15.655556, y: -20.244446}
+        - {x: 14.344444, y: -20.244446}
+        - {x: 17.344444, y: -18.244446}
+        - {x: 17.344444, y: 4.755554}
+        - {x: 15.344444, y: 16.755554}
+    - name: Item A1 Avatar LilB_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 753
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.32222, y: 21.466675}
+        - {x: -16.32222, y: 13.466675}
+        - {x: -16.32222, y: -20.533325}
+        - {x: 16.67778, y: -20.533325}
+        - {x: 16.67778, y: 8.466675}
+        - {x: 9.67778, y: 21.466675}
+    - name: Item A1 Avatar LilB_6
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 752
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.9222107, y: 21.755554}
+        - {x: -15.922211, y: 7.755554}
+        - {x: -15.922211, y: -20.244446}
+        - {x: 14.077789, y: -20.244446}
+        - {x: 17.07779, y: -17.244446}
+        - {x: 17.07779, y: 9.755554}
+        - {x: 9.077789, y: 21.755554}
+    - name: Item A1 Avatar LilB_7
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 753
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.799988, y: 18.966675}
+        - {x: -19.799988, y: 12.966675}
+        - {x: -19.799988, y: -12.033325}
+        - {x: -17.799988, y: -18.033325}
+        - {x: 10.200012, y: -18.033325}
+        - {x: 17.200012, y: -16.033325}
+        - {x: 20.200012, y: 3.9666748}
+        - {x: 20.200012, y: 17.966675}
+        - {x: 19.200012, y: 18.966675}
+    - name: Item A1 Avatar LilB_8
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 764
+        width: 72
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

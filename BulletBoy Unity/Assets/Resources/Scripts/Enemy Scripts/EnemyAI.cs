@@ -21,6 +21,10 @@ public abstract class EnemyAI : MonoBehaviour {
     public float dropRate;
     private float dropCoolDown;
 
+    [Header("Cannon enemy variables")]
+    public float cannonForceLeft;
+    public float cannonForceUp;
+
     Animator anim;
     Rigidbody2D rb;
 
@@ -47,7 +51,8 @@ public abstract class EnemyAI : MonoBehaviour {
         {
             EnemyBehavior();
             FlyingAttack();
-            if (enemyType == "Flying")
+            CannonEnemy(cannonForceLeft, cannonForceUp);
+            if (enemyType == "Flying" || enemyType == "Cannon")
             {
                 if (dropCoolDown > 0)
                 {
@@ -124,5 +129,28 @@ public abstract class EnemyAI : MonoBehaviour {
     public bool CanDrop
     {
         get { return dropCoolDown <= 0.0f; }
+    }
+
+    /// <summary>
+    /// Cannon enemy shoots bomber enemies in a arc
+    /// </summary>
+    /// <param name="fireForceLeft"></param>
+    /// <param name="fireForceUp"></param>
+    void CannonEnemy(float fireForceLeft, float fireForceUp)
+    {
+        if (enemyType == "Cannon")
+        {
+            if (CanDrop)
+            {
+                // todo: cannon animation
+                anim.SetTrigger("canShoot");
+                dropCoolDown = dropRate;
+                GameObject bomber = Instantiate(Resources.Load("Prefabs/Enemies/Bomb_Minion", typeof(GameObject))) as GameObject;
+                bomber.transform.position = new Vector3(gameObject.transform.position.x, gameObject.transform.position.y, gameObject.transform.position.z);
+                bomber.GetComponent<Rigidbody2D>().AddForce(Vector2.left * fireForceLeft);
+                bomber.GetComponent<Rigidbody2D>().AddForce(Vector2.up * fireForceUp);
+
+            }
+        }
     }
 }

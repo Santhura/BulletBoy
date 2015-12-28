@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: 71fab6073ade58e4f94a00c978e9dda7
+timeCreated: 1451337397
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: enemy 5 cannon_0
+    21300002: enemy 5 cannon_1
+    21300004: enemy 5 cannon_3
+    21300006: enemy 5 cannon_5
+    21300008: enemy 5 cannon_6
+    21300010: enemy 5 cannon_7
+    21300012: enemy 5 cannon_8
+    21300014: enemy 5 cannon_9
+    21300016: enemy 5 cannon_10
+    21300018: enemy 5 cannon_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: enemy 5 cannon_0
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 653
+        width: 148
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.400002, y: 62.85556}
+        - {x: 10.400002, y: 55.85556}
+        - {x: 2.4000015, y: 48.85556}
+        - {x: -4.5999985, y: 18.85556}
+        - {x: -4.5999985, y: 14.85556}
+        - {x: -5.5999985, y: 18.85556}
+        - {x: -9.599998, y: 22.85556}
+        - {x: -15.599998, y: 26.85556}
+        - {x: -41.6, y: -13.14444}
+        - {x: -52.6, y: -39.14444}
+        - {x: -52.6, y: -59.14444}
+        - {x: -50.6, y: -62.14444}
+        - {x: 53.4, y: -62.14444}
+        - {x: 53.4, y: 62.85556}
+    - name: enemy 5 cannon_1
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 657
+        width: 67
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.7888794, y: 37.700012}
+        - {x: -23.78888, y: 32.700012}
+        - {x: -23.78888, y: -36.299988}
+        - {x: -21.78888, y: -37.299988}
+        - {x: 15.211121, y: -37.299988}
+        - {x: 23.21112, y: -28.299988}
+        - {x: 25.21112, y: -0.2999878}
+        - {x: 25.21112, y: 37.700012}
+    - name: enemy 5 cannon_3
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 659
+        width: 84
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.100006, y: 41.622223}
+        - {x: 31.100006, y: 42.622223}
+        - {x: 26.100006, y: 43.622223}
+        - {x: -8.899994, y: 43.622223}
+        - {x: -25.899994, y: 32.622223}
+        - {x: -26.899994, y: 6.622223}
+        - {x: -18.899994, y: -8.377777}
+        - {x: -14.899994, y: -12.377777}
+        - {x: -15.899994, y: -11.377777}
+        - {x: -29.899994, y: -7.377777}
+        - {x: -29.899994, y: -40.377777}
+        - {x: -26.899994, y: -42.377777}
+        - {x: 17.100006, y: -42.377777}
+        - {x: 31.100006, y: -24.377777}
+        - {x: 31.100006, y: -11.377777}
+        - {x: 24.100006, y: -9.377777}
+    - name: enemy 5 cannon_5
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 674
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemy 5 cannon_6
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 411
+        width: 177
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.033333, y: 68.76666}
+        - {x: -58.033333, y: 50.766663}
+        - {x: -63.033333, y: 45.766663}
+        - {x: -63.033333, y: -27.233337}
+        - {x: -49.033333, y: -68.23334}
+        - {x: 63.966667, y: -68.23334}
+        - {x: 63.966667, y: 68.76666}
+    - name: enemy 5 cannon_7
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 411
+        width: 207
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.422226, y: 67.76666}
+        - {x: 13.422226, y: 57.766663}
+        - {x: 18.422226, y: 28.766663}
+        - {x: 23.422226, y: 23.766663}
+        - {x: 22.422226, y: 20.766663}
+        - {x: 22.422226, y: 17.766663}
+        - {x: 22.422226, y: 22.766663}
+        - {x: 18.422226, y: 27.766663}
+        - {x: 14.422226, y: 27.766663}
+        - {x: 9.422226, y: 25.766663}
+        - {x: 9.422226, y: 18.766663}
+        - {x: -1.577774, y: 56.766663}
+        - {x: -18.577774, y: 67.76666}
+        - {x: -62.577774, y: 67.76666}
+        - {x: -73.577774, y: 50.766663}
+        - {x: -73.577774, y: -19.233337}
+        - {x: -36.577774, y: -67.23334}
+        - {x: 68.422226, y: -67.23334}
+        - {x: 74.422226, y: -57.233337}
+        - {x: 74.422226, y: 67.76666}
+    - name: enemy 5 cannon_8
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 411
+        width: 213
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64.22223, y: 53.766663}
+        - {x: 60.22223, y: 57.766663}
+        - {x: 62.22223, y: 56.766663}
+        - {x: 72.22223, y: 55.766663}
+        - {x: 76.22223, y: 64.76666}
+        - {x: 74.22223, y: 70.76666}
+        - {x: 67.22223, y: 70.76666}
+        - {x: 31.222229, y: 66.76666}
+        - {x: 22.222229, y: 47.766663}
+        - {x: 22.222229, y: 30.766663}
+        - {x: 15.222229, y: 25.766663}
+        - {x: 17.222229, y: 24.766663}
+        - {x: 13.222229, y: 27.766663}
+        - {x: 3.222229, y: 26.766663}
+        - {x: -1.777771, y: 70.76666}
+        - {x: -75.77777, y: 70.76666}
+        - {x: -75.77777, y: 4.7666626}
+        - {x: -68.77777, y: -1.2333374}
+        - {x: -55.77777, y: -0.2333374}
+        - {x: -52.77777, y: 1.7666626}
+        - {x: -35.77777, y: -16.233337}
+        - {x: -20.777771, y: -70.23334}
+        - {x: 73.22223, y: -70.23334}
+        - {x: 76.22223, y: -48.233337}
+        - {x: 76.22223, y: 20.766663}
+        - {x: 68.22223, y: 47.766663}
+    - name: enemy 5 cannon_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 70
+        width: 172
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.0555573, y: 70.27778}
+        - {x: -60.055557, y: 44.27778}
+        - {x: -61.055557, y: 32.27778}
+        - {x: -61.055557, y: -10.722221}
+        - {x: -42.055557, y: -68.72222}
+        - {x: 59.944443, y: -68.72222}
+        - {x: 61.944443, y: -49.72222}
+        - {x: 61.944443, y: 16.277779}
+        - {x: 48.944443, y: 70.27778}
+    - name: enemy 5 cannon_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 70
+        width: 171
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.30000305, y: 30.777779}
+        - {x: -50.699997, y: 20.777779}
+        - {x: -60.699997, y: 10.777779}
+        - {x: -60.699997, y: -4.2222214}
+        - {x: -44.699997, y: -29.222221}
+        - {x: 56.300003, y: -29.222221}
+        - {x: 62.300003, y: -16.222221}
+        - {x: 62.300003, y: 4.7777786}
+        - {x: 49.300003, y: 30.777779}
+    - name: enemy 5 cannon_11
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 68
+        width: 171
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
