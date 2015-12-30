@@ -73,7 +73,7 @@ public abstract class EnemyAI : MonoBehaviour {
             transform.Translate(-Vector2.right * speed * Time.deltaTime);
             if (enemyType == "Spike")
             {
-                transform.localScale = new Vector3(1, 1, 1);
+                transform.localScale = new Vector3(1.5f, 1.5f, 1);
             }
             else if (enemyType == "Bomb")
             {
@@ -89,7 +89,7 @@ public abstract class EnemyAI : MonoBehaviour {
             transform.Translate(Vector2.right * speed * Time.deltaTime);
             if (enemyType == "Spike")
             {
-                transform.localScale = new Vector3(-1, 1, 1);
+                transform.localScale = new Vector3(-1.5f, 1.5f, 1);
             }
             else if (enemyType == "Bomb")
             {

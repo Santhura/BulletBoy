@@ -1,0 +1,404 @@
+fileFormatVersion: 2
+guid: 81899401b9a205b48b465b4f5780e833
+timeCreated: 1451484511
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: scenery BB W1L1 clouds_0
+    21300002: scenery BB W1L1 clouds_1
+    21300004: scenery BB W1L1 clouds_2
+    21300006: scenery BB W1L1 clouds_3
+    21300008: scenery BB W1L1 clouds_4
+    21300010: scenery BB W1L1 clouds_7
+    21300012: scenery BB W1L1 clouds_8
+    21300014: scenery BB W1L1 clouds_9
+    21300016: scenery BB W1L1 clouds_10
+    21300018: scenery BB W1L1 clouds_11
+    21300020: scenery BB W1L1 clouds_12
+    21300022: scenery BB W1L1 clouds_13
+    21300024: scenery BB W1L1 clouds_14
+    21300026: scenery BB W1L1 clouds_16
+    21300028: scenery BB W1L1 clouds_18
+    21300030: scenery BB W1L1 clouds_19
+    21300032: scenery BB W1L1 clouds_20
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: scenery BB W1L1 clouds_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 602
+        width: 261
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -130.5, y: -20.5}
+        - {x: -130.5, y: -38.5}
+        - {x: 30.5, y: -38.5}
+        - {x: 130.5, y: -35.5}
+        - {x: 130.5, y: -8.5}
+        - {x: 104.5, y: 31.5}
+        - {x: 94.5, y: 38.5}
+        - {x: -27.5, y: 38.5}
+        - {x: -95.5, y: 21.5}
+    - name: scenery BB W1L1 clouds_1
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 626
+        width: 160
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 24}
+        - {x: -37, y: 14}
+        - {x: -57, y: 5}
+        - {x: -80, y: -10}
+        - {x: -80, y: -24}
+        - {x: 80, y: -24}
+        - {x: 80, y: 7}
+        - {x: 55, y: 24}
+    - name: scenery BB W1L1 clouds_2
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 602
+        width: 160
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 80, y: -24}
+        - {x: 80, y: 24}
+        - {x: -80, y: 24}
+        - {x: -80, y: -24}
+    - name: scenery BB W1L1 clouds_3
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 568
+        width: 261
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76.5, y: 38.5}
+        - {x: -19.5, y: 38.5}
+        - {x: -69.5, y: 28.5}
+        - {x: -130.5, y: -28.5}
+        - {x: -130.5, y: -38.5}
+        - {x: 64.5, y: -38.5}
+        - {x: 129.5, y: -34.5}
+        - {x: 130.5, y: -30.5}
+        - {x: 130.5, y: -15.5}
+    - name: scenery BB W1L1 clouds_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 496
+        width: 222
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 82, y: 37}
+        - {x: 69, y: 40}
+        - {x: -14, y: 40}
+        - {x: -92, y: 15}
+        - {x: -111, y: -23}
+        - {x: -111, y: -40}
+        - {x: 111, y: -40}
+        - {x: 111, y: -12}
+    - name: scenery BB W1L1 clouds_7
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 399
+        width: 160
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: 24.5}
+        - {x: -29, y: 24.5}
+        - {x: -80, y: -4.5}
+        - {x: -80, y: -24.5}
+        - {x: 80, y: -24.5}
+        - {x: 80, y: -0.5}
+        - {x: 62, y: 15.5}
+    - name: scenery BB W1L1 clouds_8
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 387
+        width: 160
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 24}
+        - {x: -70, y: 7}
+        - {x: -80, y: -12}
+        - {x: -80, y: -24}
+        - {x: 80, y: -24}
+        - {x: 80, y: 3}
+        - {x: 65, y: 24}
+    - name: scenery BB W1L1 clouds_9
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 408
+        width: 240
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: 36}
+        - {x: -112, y: -7}
+        - {x: -120, y: -20}
+        - {x: -120, y: -36}
+        - {x: 120, y: -36}
+        - {x: 120, y: 26}
+        - {x: 90, y: 36}
+    - name: scenery BB W1L1 clouds_10
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 281
+        width: 261
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 39}
+        - {x: -91.5, y: 20}
+        - {x: -130.5, y: -27}
+        - {x: -130.5, y: -38}
+        - {x: -128.5, y: -39}
+        - {x: 28.5, y: -39}
+        - {x: 130.5, y: -33}
+        - {x: 130.5, y: 1}
+        - {x: 88.5, y: 39}
+    - name: scenery BB W1L1 clouds_11
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 281
+        width: 160
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 24}
+        - {x: -80, y: -5}
+        - {x: -80, y: -24}
+        - {x: 80, y: -24}
+        - {x: 80, y: -11}
+        - {x: 77, y: -3}
+        - {x: 65, y: 24}
+    - name: scenery BB W1L1 clouds_12
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 295
+        width: 160
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 24}
+        - {x: -72, y: 4}
+        - {x: -80, y: -14}
+        - {x: -80, y: -24}
+        - {x: 80, y: -24}
+        - {x: 80, y: -4}
+        - {x: 60, y: 24}
+    - name: scenery BB W1L1 clouds_13
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 230
+        width: 261
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 106.5, y: 20.5}
+        - {x: 69.5, y: 38.5}
+        - {x: -32.5, y: 38.5}
+        - {x: -91.5, y: 16.5}
+        - {x: -130.5, y: -26.5}
+        - {x: -130.5, y: -38.5}
+        - {x: -6.5, y: -38.5}
+        - {x: 128.5, y: -33.5}
+        - {x: 130.5, y: -31.5}
+        - {x: 130.5, y: -17.5}
+        - {x: 129.5, y: -13.5}
+    - name: scenery BB W1L1 clouds_14
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 149
+        width: 413
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -111.5, y: 53}
+        - {x: -145.5, y: 38}
+        - {x: -206.5, y: -10}
+        - {x: -206.5, y: -31}
+        - {x: -124.5, y: -53}
+        - {x: 78.5, y: -53}
+        - {x: 206.5, y: -21}
+        - {x: 206.5, y: 2}
+        - {x: 180.5, y: 53}
+      - - {x: 155.5, y: -53}
+        - {x: 206.5, y: -53}
+        - {x: 206.5, y: -24}
+        - {x: 195.5, y: -24}
+        - {x: 155.5, y: -40}
+    - name: scenery BB W1L1 clouds_16
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 167
+        width: 222
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 40}
+        - {x: -72, y: 29}
+        - {x: -84, y: 12}
+        - {x: -111, y: -31}
+        - {x: -111, y: -40}
+        - {x: -29, y: -40}
+        - {x: 111, y: -35}
+        - {x: 111, y: 0}
+        - {x: 69, y: 40}
+    - name: scenery BB W1L1 clouds_18
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 9
+        width: 222
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 93, y: 40}
+        - {x: -79, y: 40}
+        - {x: -94, y: 38}
+        - {x: -111, y: -8}
+        - {x: -111, y: -40}
+        - {x: -2, y: -40}
+        - {x: 111, y: -33}
+        - {x: 111, y: -16}
+        - {x: 110, y: -10}
+    - name: scenery BB W1L1 clouds_19
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 12
+        width: 262
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -124, y: 38.5}
+        - {x: -131, y: 22.5}
+        - {x: -131, y: -38.5}
+        - {x: 131, y: -38.5}
+        - {x: 131, y: 38.5}
+      - - {x: 128, y: 14.5}
+        - {x: 130, y: 12.5}
+        - {x: 131, y: 12.5}
+        - {x: 131, y: 18.5}
+        - {x: 128, y: 17.5}
+    - name: scenery BB W1L1 clouds_20
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 61
+        width: 280
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49, y: 33}
+        - {x: -52, y: 33}
+        - {x: -136, y: -2}
+        - {x: -140, y: -12}
+        - {x: -140, y: -33}
+        - {x: 140, y: -33}
+        - {x: 140, y: -6}
+        - {x: 131, y: 19}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

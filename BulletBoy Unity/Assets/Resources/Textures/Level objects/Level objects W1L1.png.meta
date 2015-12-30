@@ -1,0 +1,244 @@
+fileFormatVersion: 2
+guid: fa2158997e230564aa0e01521b322c93
+timeCreated: 1451415460
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Level objects W1L1_3
+    21300002: Level objects W1L1_4
+    21300004: Level objects W1L1_5
+    21300006: Level objects W1L1_6
+    21300008: Level objects W1L1_7
+    21300010: Level objects W1L1_8
+    21300012: Level objects W1L1_9
+    21300014: Level objects W1L1_10
+    21300016: Level objects W1L1_11
+    21300018: Level objects W1L1_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Level objects W1L1_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 181
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 24.5}
+        - {x: -20, y: 22.5}
+        - {x: -20, y: -24.5}
+        - {x: 8, y: -24.5}
+        - {x: 20, y: -20.5}
+        - {x: 20, y: 16.5}
+        - {x: 18, y: 24.5}
+    - name: Level objects W1L1_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 181
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 21.5}
+        - {x: -20.5, y: 20.5}
+        - {x: -20.5, y: -12.5}
+        - {x: -19.5, y: -19.5}
+        - {x: -17.5, y: -21.5}
+        - {x: 8.5, y: -21.5}
+        - {x: 20.5, y: -17.5}
+        - {x: 20.5, y: 10.5}
+        - {x: 12.5, y: 21.5}
+    - name: Level objects W1L1_5
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 181
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Level objects W1L1_6
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 180
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 21.5}
+        - {x: -21, y: -12.5}
+        - {x: -20, y: -20.5}
+        - {x: -15, y: -21.5}
+        - {x: 10, y: -21.5}
+        - {x: 21, y: -15.5}
+        - {x: 21, y: 19.5}
+        - {x: 14, y: 21.5}
+    - name: Level objects W1L1_7
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 106
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 27}
+        - {x: -28.5, y: 10}
+        - {x: -28.5, y: -27}
+        - {x: 14.5, y: -27}
+        - {x: 28.5, y: -16}
+        - {x: 28.5, y: 21}
+        - {x: 14.5, y: 27}
+    - name: Level objects W1L1_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 108
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 30}
+        - {x: -28.5, y: 9}
+        - {x: -28.5, y: -30}
+        - {x: 25.5, y: -30}
+        - {x: 28.5, y: -23}
+        - {x: 28.5, y: 25}
+        - {x: 17.5, y: 30}
+    - name: Level objects W1L1_9
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 107
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 33}
+        - {x: -28.5, y: 13}
+        - {x: -28.5, y: -33}
+        - {x: 24.5, y: -33}
+        - {x: 28.5, y: -30}
+        - {x: 28.5, y: 26}
+        - {x: 15.5, y: 33}
+    - name: Level objects W1L1_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 110
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 33}
+        - {x: -24, y: 25}
+        - {x: -30, y: 19}
+        - {x: -30, y: -33}
+        - {x: 19, y: -33}
+        - {x: 30, y: -30}
+        - {x: 30, y: 33}
+    - name: Level objects W1L1_11
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 109
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 31}
+        - {x: -21.5, y: 31}
+        - {x: -34.5, y: 4}
+        - {x: -34.5, y: -31}
+        - {x: 11.5, y: -31}
+        - {x: 29.5, y: -17}
+        - {x: 34.5, y: -12}
+        - {x: 34.5, y: 28}
+    - name: Level objects W1L1_12
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 105
+        width: 77
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 21}
+        - {x: -38.5, y: 12}
+        - {x: -38.5, y: -18}
+        - {x: -29.5, y: -21}
+        - {x: 38.5, y: -21}
+        - {x: 38.5, y: 16}
+        - {x: 34.5, y: 21}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

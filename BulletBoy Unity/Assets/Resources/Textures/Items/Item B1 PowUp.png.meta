@@ -1,0 +1,783 @@
+fileFormatVersion: 2
+guid: a1d0933efbd4e4d439ecedb2e8931c1d
+timeCreated: 1451425893
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Item B1 PowUp_0
+    21300002: Item B1 PowUp_1
+    21300004: Item B1 PowUp_2
+    21300006: Item B1 PowUp_3
+    21300008: Item B1 PowUp_4
+    21300010: Item B1 PowUp_5
+    21300012: Item B1 PowUp_6
+    21300014: Item B1 PowUp_7
+    21300016: Item B1 PowUp_8
+    21300018: Item B1 PowUp_9
+    21300020: Item B1 PowUp_10
+    21300022: Item B1 PowUp_11
+    21300024: Item B1 PowUp_12
+    21300026: Item B1 PowUp_13
+    21300028: Item B1 PowUp_14
+    21300030: Item B1 PowUp_15
+    21300032: Item B1 PowUp_16
+    21300034: Item B1 PowUp_17
+    21300036: Item B1 PowUp_18
+    21300038: Item B1 PowUp_19
+    21300040: Item B1 PowUp_20
+    21300042: Item B1 PowUp_21
+    21300044: Item B1 PowUp_22
+    21300046: Item B1 PowUp_23
+    21300048: Item B1 PowUp_24
+    21300050: Item B1 PowUp_25
+    21300052: Item B1 PowUp_26
+    21300054: Item B1 PowUp_27
+    21300056: Item B1 PowUp_28
+    21300058: Item B1 PowUp_29
+    21300060: Item B1 PowUp_30
+    21300062: Item B1 PowUp_31
+    21300064: Item B1 PowUp_32
+    21300066: Item B1 PowUp_33
+    21300068: Item B1 PowUp_34
+    21300070: Item B1 PowUp_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Item B1 PowUp_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 733
+        width: 126
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.988892, y: 49.244446}
+        - {x: -45.01111, y: 49.244446}
+        - {x: -45.01111, y: -48.755554}
+        - {x: 38.98889, y: -48.755554}
+        - {x: 45.98889, y: -37.755554}
+        - {x: 45.98889, y: 27.244446}
+        - {x: 43.98889, y: 38.244446}
+    - name: Item B1 PowUp_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 729
+        width: 124
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.699997, y: 49.400024}
+        - {x: -43.699997, y: 41.400024}
+        - {x: -43.699997, y: -33.599976}
+        - {x: -32.699997, y: -48.599976}
+        - {x: 26.300003, y: -48.599976}
+        - {x: 45.300003, y: -28.599976}
+        - {x: 45.300003, y: 30.400024}
+        - {x: 30.300003, y: 49.400024}
+    - name: Item B1 PowUp_2
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 727
+        width: 126
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.01111, y: 50.477783}
+        - {x: -26.988892, y: 50.477783}
+        - {x: -44.98889, y: 29.477783}
+        - {x: -44.98889, y: -33.522217}
+        - {x: -17.988892, y: -48.522217}
+        - {x: 34.01111, y: -48.522217}
+        - {x: 46.01111, y: -21.522217}
+        - {x: 46.01111, y: 31.477783}
+    - name: Item B1 PowUp_3
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 731
+        width: 126
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.977753, y: 50.322205}
+        - {x: -44.977753, y: 38.322205}
+        - {x: -44.977753, y: -40.677795}
+        - {x: -25.977753, y: -48.677795}
+        - {x: 25.022247, y: -48.677795}
+        - {x: 45.022247, y: -22.677795}
+        - {x: 45.022247, y: 23.322205}
+        - {x: 27.022247, y: 50.322205}
+    - name: Item B1 PowUp_4
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 731
+        width: 126
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.388916, y: 50.322205}
+        - {x: -37.611084, y: 50.322205}
+        - {x: -44.611084, y: 27.322205}
+        - {x: -44.611084, y: -34.677795}
+        - {x: -33.611084, y: -45.677795}
+        - {x: -23.611084, y: -48.677795}
+        - {x: 25.388916, y: -48.677795}
+        - {x: 40.388916, y: -37.677795}
+        - {x: 46.388916, y: -18.677795}
+        - {x: 46.388916, y: 31.322205}
+    - name: Item B1 PowUp_5
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 551
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.777779, y: 50.322235}
+        - {x: -44.77778, y: 40.322235}
+        - {x: -44.77778, y: -31.677765}
+        - {x: -24.777779, y: -48.677765}
+        - {x: 40.22222, y: -48.677765}
+        - {x: 45.22222, y: -33.677765}
+        - {x: 45.22222, y: 43.322235}
+        - {x: 37.22222, y: 50.322235}
+    - name: Item B1 PowUp_6
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 551
+        width: 126
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.100006, y: 50.322235}
+        - {x: -34.899994, y: 50.322235}
+        - {x: -44.899994, y: 25.322235}
+        - {x: -44.899994, y: -41.677765}
+        - {x: -28.899994, y: -48.677765}
+        - {x: 34.100006, y: -48.677765}
+        - {x: 39.100006, y: -38.677765}
+        - {x: 46.100006, y: -17.677765}
+        - {x: 46.100006, y: 28.322235}
+    - name: Item B1 PowUp_7
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 551
+        width: 126
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.522217, y: 49.822235}
+        - {x: -44.522217, y: -48.177765}
+        - {x: 46.477783, y: -48.177765}
+        - {x: 46.477783, y: 30.822235}
+        - {x: 36.477783, y: 49.822235}
+    - name: Item B1 PowUp_8
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 551
+        width: 126
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.07776, y: 50.322235}
+        - {x: -45.07776, y: 37.322235}
+        - {x: -45.07776, y: -30.677765}
+        - {x: -34.07776, y: -48.677765}
+        - {x: 30.922241, y: -48.677765}
+        - {x: 45.92224, y: -37.677765}
+        - {x: 45.92224, y: 28.322235}
+        - {x: 34.92224, y: 50.322235}
+    - name: Item B1 PowUp_9
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 554
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.71109, y: 50.455566}
+        - {x: -44.71109, y: 27.455566}
+        - {x: -44.71109, y: -30.544434}
+        - {x: -26.71109, y: -48.544434}
+        - {x: 21.28891, y: -48.544434}
+        - {x: 44.28891, y: -38.544434}
+        - {x: 45.28891, y: -35.544434}
+        - {x: 45.28891, y: 32.455566}
+        - {x: 27.28891, y: 50.455566}
+    - name: Item B1 PowUp_10
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 554
+        width: 127
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.088867, y: 50.455566}
+        - {x: -45.088867, y: 21.455566}
+        - {x: -45.088867, y: -23.544434}
+        - {x: -41.088867, y: -33.544434}
+        - {x: -18.088867, y: -48.544434}
+        - {x: 27.911133, y: -48.544434}
+        - {x: 31.911133, y: -47.544434}
+        - {x: 46.911133, y: -28.544434}
+        - {x: 46.911133, y: 29.455566}
+        - {x: 33.911133, y: 50.455566}
+    - name: Item B1 PowUp_11
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 554
+        width: 128
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.622192, y: -16.544434}
+        - {x: -30.622192, y: -41.544434}
+        - {x: -25.622192, y: -48.544434}
+        - {x: 25.377808, y: -48.544434}
+        - {x: 46.377808, y: -35.544434}
+        - {x: 46.377808, y: 44.455566}
+        - {x: 43.377808, y: 50.455566}
+        - {x: -25.622192, y: 50.455566}
+        - {x: -45.622192, y: 28.455566}
+    - name: Item B1 PowUp_12
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 551
+        width: 126
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.599976, y: 50.322235}
+        - {x: -44.599976, y: 43.322235}
+        - {x: -44.599976, y: -28.677765}
+        - {x: -24.599976, y: -48.677765}
+        - {x: 45.400024, y: -48.677765}
+        - {x: 45.400024, y: 50.322235}
+    - name: Item B1 PowUp_13
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 551
+        width: 126
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.799988, y: 50.322235}
+        - {x: -44.799988, y: 45.322235}
+        - {x: -44.799988, y: -34.677765}
+        - {x: -27.799988, y: -48.677765}
+        - {x: 21.200012, y: -48.677765}
+        - {x: 41.200012, y: -42.677765}
+        - {x: 45.200012, y: -25.677765}
+        - {x: 45.200012, y: 34.322235}
+        - {x: 38.200012, y: 50.322235}
+    - name: Item B1 PowUp_14
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 551
+        width: 126
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 50.322235}
+        - {x: -45, y: 42.322235}
+        - {x: -45, y: -27.677765}
+        - {x: -40, y: -48.677765}
+        - {x: 32, y: -48.677765}
+        - {x: 45, y: -35.677765}
+        - {x: 45, y: 38.322235}
+        - {x: 24, y: 50.322235}
+    - name: Item B1 PowUp_15
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 551
+        width: 126
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.400024, y: 34.822235}
+        - {x: 22.400024, y: 49.822235}
+        - {x: -27.599976, y: 49.822235}
+        - {x: -44.599976, y: 43.822235}
+        - {x: -44.599976, y: -39.177765}
+        - {x: -20.599976, y: -48.177765}
+        - {x: 18.400024, y: -48.177765}
+        - {x: 38.400024, y: -34.177765}
+        - {x: 45.400024, y: -21.177765}
+        - {x: 45.400024, y: 17.822235}
+    - name: Item B1 PowUp_16
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 551
+        width: 126
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.277832, y: 30.822235}
+        - {x: 28.277832, y: 49.822235}
+        - {x: -21.722168, y: 49.822235}
+        - {x: -43.722168, y: 43.822235}
+        - {x: -44.722168, y: 39.822235}
+        - {x: -44.722168, y: -21.177765}
+        - {x: -29.722168, y: -48.177765}
+        - {x: 21.277832, y: -48.177765}
+        - {x: 30.277832, y: -41.177765}
+        - {x: 44.277832, y: -23.177765}
+        - {x: 46.277832, y: -20.177765}
+    - name: Item B1 PowUp_17
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 380
+        width: 126
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.01111, y: 49.22223}
+        - {x: -45.01111, y: 23.222229}
+        - {x: -45.01111, y: -31.777771}
+        - {x: -30.011108, y: -48.77777}
+        - {x: 45.98889, y: -48.77777}
+        - {x: 45.98889, y: 49.22223}
+    - name: Item B1 PowUp_18
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 380
+        width: 126
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.566666, y: 49.22223}
+        - {x: -44.566666, y: 29.222229}
+        - {x: -44.566666, y: -33.77777}
+        - {x: -39.566666, y: -49.77777}
+        - {x: 29.433334, y: -49.77777}
+        - {x: 46.433334, y: -44.77777}
+        - {x: 46.433334, y: 26.222229}
+        - {x: 22.433334, y: 49.22223}
+    - name: Item B1 PowUp_19
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 383
+        width: 126
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.988892, y: 49.35556}
+        - {x: -43.98889, y: 33.35556}
+        - {x: -44.98889, y: 29.35556}
+        - {x: -44.98889, y: -25.64444}
+        - {x: -23.988892, y: -48.64444}
+        - {x: 29.011108, y: -48.64444}
+        - {x: 46.01111, y: -27.64444}
+        - {x: 46.01111, y: 30.35556}
+        - {x: 25.011108, y: 49.35556}
+    - name: Item B1 PowUp_20
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 383
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.888885, y: 49.35556}
+        - {x: -35.111115, y: 49.35556}
+        - {x: -44.111115, y: 34.35556}
+        - {x: -44.111115, y: -23.64444}
+        - {x: -34.111115, y: -48.64444}
+        - {x: 25.888885, y: -48.64444}
+        - {x: 45.888885, y: -27.64444}
+        - {x: 45.888885, y: 27.35556}
+    - name: Item B1 PowUp_21
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 383
+        width: 126
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.611084, y: 49.35556}
+        - {x: -44.611084, y: 42.35556}
+        - {x: -44.611084, y: -33.64444}
+        - {x: -37.611084, y: -48.64444}
+        - {x: 32.388916, y: -48.64444}
+        - {x: 46.388916, y: -43.64444}
+        - {x: 46.388916, y: 27.35556}
+        - {x: 28.388916, y: 49.35556}
+    - name: Item B1 PowUp_22
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 205
+        width: 247
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.95555, y: 51.277786}
+        - {x: -87.95555, y: 31.277786}
+        - {x: -87.95555, y: -25.722214}
+        - {x: -85.95555, y: -37.722214}
+        - {x: -69.95555, y: -49.722214}
+        - {x: 73.04445, y: -49.722214}
+        - {x: 88.04445, y: -37.722214}
+        - {x: 88.04445, y: 37.277786}
+        - {x: 85.04445, y: 51.277786}
+    - name: Item B1 PowUp_23
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 207
+        width: 126
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.877777, y: 49.699997}
+        - {x: -44.877777, y: -49.300003}
+        - {x: 21.122223, y: -49.300003}
+        - {x: 39.122223, y: -43.300003}
+        - {x: 46.122223, y: -27.300003}
+        - {x: 46.122223, y: 31.699997}
+        - {x: 20.122223, y: 49.699997}
+    - name: Item B1 PowUp_24
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 208
+        width: 127
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.21109, y: 50.911118}
+        - {x: -45.21109, y: 30.911118}
+        - {x: -45.21109, y: -47.088882}
+        - {x: -44.21109, y: -49.088882}
+        - {x: 45.78891, y: -49.088882}
+        - {x: 45.78891, y: 40.911118}
+        - {x: 32.78891, y: 50.911118}
+    - name: Item B1 PowUp_25
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 200
+        width: 125
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.777771, y: 50.22223}
+        - {x: -44.77777, y: 29.222229}
+        - {x: -44.77777, y: -34.77777}
+        - {x: -41.77777, y: -49.77777}
+        - {x: 40.22223, y: -49.77777}
+        - {x: 45.22223, y: -30.777771}
+        - {x: 45.22223, y: 27.222229}
+        - {x: 29.222229, y: 50.22223}
+    - name: Item B1 PowUp_26
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 47
+        width: 126
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.955555, y: 49.422222}
+        - {x: -44.955555, y: -44.577778}
+        - {x: -37.955555, y: -48.577778}
+        - {x: 44.044445, y: -48.577778}
+        - {x: 45.044445, y: -44.577778}
+        - {x: 45.044445, y: 49.422222}
+    - name: Item B1 PowUp_27
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 47
+        width: 126
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.944443, y: 49.422222}
+        - {x: -38.944443, y: 39.422222}
+        - {x: -44.944443, y: 19.422222}
+        - {x: -44.944443, y: -27.577778}
+        - {x: -30.944443, y: -47.577778}
+        - {x: -28.944443, y: -48.577778}
+        - {x: 31.055557, y: -48.577778}
+        - {x: 46.055557, y: -26.577778}
+        - {x: 46.055557, y: 38.422222}
+        - {x: 36.055557, y: 49.422222}
+    - name: Item B1 PowUp_28
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 47
+        width: 127
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.85556, y: 49.422222}
+        - {x: -32.14444, y: 49.422222}
+        - {x: -45.14444, y: 28.422222}
+        - {x: -45.14444, y: -39.577778}
+        - {x: -29.14444, y: -48.577778}
+        - {x: 40.85556, y: -48.577778}
+        - {x: 45.85556, y: -38.577778}
+        - {x: 45.85556, y: 29.422222}
+        - {x: 41.85556, y: 38.422222}
+    - name: Item B1 PowUp_29
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 47
+        width: 127
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.21109, y: 49.422222}
+        - {x: -45.21109, y: -30.577778}
+        - {x: -28.21109, y: -48.577778}
+        - {x: 33.78891, y: -48.577778}
+        - {x: 45.78891, y: -41.577778}
+        - {x: 45.78891, y: 39.422222}
+        - {x: 37.78891, y: 49.422222}
+    - name: Item B1 PowUp_30
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 47
+        width: 127
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.055542, y: 49.422222}
+        - {x: -45.055542, y: 29.422222}
+        - {x: -45.055542, y: -29.577778}
+        - {x: -30.055542, y: -48.577778}
+        - {x: 25.944458, y: -48.577778}
+        - {x: 45.944458, y: -26.577778}
+        - {x: 45.944458, y: 38.422222}
+        - {x: 24.944458, y: 49.422222}
+    - name: Item B1 PowUp_31
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 47
+        width: 126
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.611084, y: 49.422222}
+        - {x: -44.611084, y: 31.422222}
+        - {x: -44.611084, y: -39.577778}
+        - {x: -24.611084, y: -48.577778}
+        - {x: 34.388916, y: -48.577778}
+        - {x: 46.388916, y: -31.577778}
+        - {x: 46.388916, y: 40.422222}
+        - {x: 26.388916, y: 49.422222}
+    - name: Item B1 PowUp_32
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 47
+        width: 126
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.700012, y: 49.422222}
+        - {x: -44.700012, y: 30.422222}
+        - {x: -44.700012, y: -30.577778}
+        - {x: -20.700012, y: -48.577778}
+        - {x: 41.299988, y: -48.577778}
+        - {x: 46.299988, y: -25.577778}
+        - {x: 46.299988, y: 34.422222}
+        - {x: 26.299988, y: 49.422222}
+    - name: Item B1 PowUp_33
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 47
+        width: 126
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.07782, y: 49.422222}
+        - {x: -31.92218, y: 49.422222}
+        - {x: -44.92218, y: 30.422222}
+        - {x: -44.92218, y: -48.577778}
+        - {x: 43.07782, y: -48.577778}
+        - {x: 46.07782, y: -42.577778}
+        - {x: 46.07782, y: 24.422222}
+        - {x: 42.07782, y: 41.422222}
+    - name: Item B1 PowUp_34
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 729
+        width: 121
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.877777, y: 49.400024}
+        - {x: -26.122223, y: 49.400024}
+        - {x: -43.122223, y: 33.400024}
+        - {x: -43.122223, y: -33.599976}
+        - {x: -38.122223, y: -48.599976}
+        - {x: 32.877777, y: -48.599976}
+        - {x: 41.877777, y: -30.599976}
+        - {x: 41.877777, y: 18.400024}
+        - {x: 36.877777, y: 38.400024}
+    - name: Item B1 PowUp_35
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 381
+        width: 126
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.83333, y: 50.43335}
+        - {x: -44.83333, y: 40.43335}
+        - {x: -44.83333, y: -39.56665}
+        - {x: -25.833328, y: -47.56665}
+        - {x: 24.166672, y: -47.56665}
+        - {x: 41.16667, y: -24.56665}
+        - {x: 41.16667, y: 41.43335}
+        - {x: 22.166672, y: 50.43335}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

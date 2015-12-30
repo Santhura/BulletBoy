@@ -5,9 +5,10 @@ public class BounceController : MonoBehaviour {
 
     Rigidbody2D playerRB;
     public float bounceForce = 10000;
-
+    Animator anim;
     void Start()
     {
+        anim = GetComponent<Animator>();
         playerRB = GameObject.Find("Player").GetComponent<Rigidbody2D>();
     }
 
@@ -19,6 +20,7 @@ public class BounceController : MonoBehaviour {
     {
         if (col.gameObject.tag == "Player")
         {
+            anim.SetTrigger("hit");
             playerRB.velocity = new Vector2(playerRB.velocity.x, 0);
             playerRB.AddForce( new Vector2(0, bounceForce));
         }
