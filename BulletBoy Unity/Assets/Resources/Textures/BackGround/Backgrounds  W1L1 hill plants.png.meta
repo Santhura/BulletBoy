@@ -1,0 +1,279 @@
+fileFormatVersion: 2
+guid: 71a7a30a22d87364dbc2cab58455dbf9
+timeCreated: 1451494770
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Backgrounds  W1L1 hill plants_0
+    21300002: Backgrounds  W1L1 hill plants_1
+    21300004: Backgrounds  W1L1 hill plants_2
+    21300006: Backgrounds  W1L1 hill plants_3
+    21300008: Backgrounds  W1L1 hill plants_4
+    21300010: Backgrounds  W1L1 hill plants_5
+    21300012: Backgrounds  W1L1 hill plants_6
+    21300014: Backgrounds  W1L1 hill plants_7
+    21300016: Backgrounds  W1L1 hill plants_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Backgrounds  W1L1 hill plants_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 152
+        width: 115
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: 35.5}
+        - {x: -57.5, y: 32.5}
+        - {x: -57.5, y: -35.5}
+        - {x: 50.5, y: -35.5}
+        - {x: 57.5, y: -21.5}
+        - {x: 57.5, y: 5.5}
+        - {x: 38.5, y: 35.5}
+    - name: Backgrounds  W1L1 hill plants_1
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 173
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 16}
+        - {x: -20.5, y: 12}
+        - {x: -20.5, y: -10}
+        - {x: -18.5, y: -16}
+        - {x: 15.5, y: -16}
+        - {x: 20.5, y: -4}
+        - {x: 20.5, y: 16}
+    - name: Backgrounds  W1L1 hill plants_2
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 155
+        width: 129
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59.5, y: 38.5}
+        - {x: -64.5, y: 23.5}
+        - {x: -64.5, y: -18.5}
+        - {x: -53.5, y: -36.5}
+        - {x: -39.5, y: -38.5}
+        - {x: 48.5, y: -38.5}
+        - {x: 64.5, y: -17.5}
+        - {x: 64.5, y: 38.5}
+    - name: Backgrounds  W1L1 hill plants_3
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 154
+        width: 130
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46, y: 38.5}
+        - {x: -65, y: 38.5}
+        - {x: -65, y: -33.5}
+        - {x: -52, y: -38.5}
+        - {x: 60, y: -38.5}
+        - {x: 63, y: -37.5}
+        - {x: 65, y: -31.5}
+        - {x: 65, y: 15.5}
+    - name: Backgrounds  W1L1 hill plants_4
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 14
+        width: 190
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 54}
+        - {x: -95, y: 21}
+        - {x: -95, y: -47}
+        - {x: -77, y: -54}
+        - {x: 91, y: -54}
+        - {x: 95, y: -46}
+        - {x: 95, y: 14}
+        - {x: 68, y: 54}
+    - name: Backgrounds  W1L1 hill plants_5
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 22
+        width: 86
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: -8.5}
+        - {x: 43, y: 10.5}
+        - {x: 32, y: 21.5}
+        - {x: 16, y: 15.5}
+        - {x: 6, y: 11.5}
+        - {x: 4, y: 9.5}
+        - {x: 3, y: 3.5}
+        - {x: 3, y: 5.5}
+        - {x: 4, y: 11.5}
+        - {x: 9, y: 16.5}
+        - {x: 22, y: 23.5}
+        - {x: 26, y: 26.5}
+        - {x: 24, y: 34.5}
+        - {x: 15, y: 36.5}
+        - {x: 6, y: 37.5}
+        - {x: 3, y: 28.5}
+        - {x: 5, y: 37.5}
+        - {x: 4, y: 45.5}
+        - {x: -14, y: 45.5}
+        - {x: -43, y: 30.5}
+        - {x: -43, y: 1.5}
+        - {x: -28, y: -22.5}
+        - {x: -18, y: -16.5}
+        - {x: -18, y: -19.5}
+        - {x: -21, y: -21.5}
+        - {x: -22, y: -29.5}
+        - {x: -15, y: -44.5}
+        - {x: -13, y: -45.5}
+        - {x: 8, y: -45.5}
+        - {x: 23, y: -26.5}
+        - {x: 23, y: -23.5}
+        - {x: 21, y: -21.5}
+    - name: Backgrounds  W1L1 hill plants_6
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 20
+        width: 86
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: -9.5}
+        - {x: 43, y: 6.5}
+        - {x: 41, y: 13.5}
+        - {x: 31, y: 20.5}
+        - {x: 17, y: 16.5}
+        - {x: 7, y: 13.5}
+        - {x: 2, y: 7.5}
+        - {x: 13, y: 20.5}
+        - {x: 20, y: 21.5}
+        - {x: 26, y: 26.5}
+        - {x: 29, y: 33.5}
+        - {x: 18, y: 45.5}
+        - {x: -15, y: 45.5}
+        - {x: -18, y: 41.5}
+        - {x: -19, y: 36.5}
+        - {x: -43, y: 25.5}
+        - {x: -43, y: -4.5}
+        - {x: -22, y: -45.5}
+        - {x: 5, y: -45.5}
+        - {x: 25, y: -27.5}
+        - {x: 28, y: -19.5}
+        - {x: 42, y: -10.5}
+    - name: Backgrounds  W1L1 hill plants_7
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 19
+        width: 86
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 18}
+        - {x: 7, y: 12}
+        - {x: 4, y: 9}
+        - {x: 4, y: 3}
+        - {x: 4, y: 11}
+        - {x: 28, y: 25}
+        - {x: 25, y: 36}
+        - {x: 10, y: 45}
+        - {x: -32, y: 45}
+        - {x: -43, y: 34}
+        - {x: -43, y: -4}
+        - {x: -15, y: -45}
+        - {x: 8, y: -45}
+        - {x: 43, y: -9}
+        - {x: 43, y: 9}
+        - {x: 33, y: 19}
+    - name: Backgrounds  W1L1 hill plants_8
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 48
+        width: 130
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 38.5}
+        - {x: -65, y: 20.5}
+        - {x: -65, y: -38.5}
+        - {x: 65, y: -38.5}
+        - {x: 65, y: 16.5}
+        - {x: 43, y: 38.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
