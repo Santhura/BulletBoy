@@ -1,0 +1,1526 @@
+fileFormatVersion: 2
+guid: af9358b5409ada6439fb623ebb72f63f
+timeCreated: 1451509731
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BB (sprite pack) beta 5
+    21300002: BB (sprite pack) beta 5_0
+    21300004: BB (sprite pack) beta 5_1
+    21300006: BB (sprite pack) beta 5_2
+    21300008: BB (sprite pack) beta 5_3
+    21300010: BB (sprite pack) beta 5_4
+    21300012: BB (sprite pack) beta 5_5
+    21300014: BB (sprite pack) beta 5_6
+    21300016: BB (sprite pack) beta 5_7
+    21300018: BB (sprite pack) beta 5_8
+    21300020: BB (sprite pack) beta 5_9
+    21300022: BB (sprite pack) beta 5_10
+    21300024: BB (sprite pack) beta 5_11
+    21300026: BB (sprite pack) beta 5_12
+    21300028: BB (sprite pack) beta 5_13
+    21300030: BB (sprite pack) beta 5_14
+    21300032: BB (sprite pack) beta 5_15
+    21300034: BB (sprite pack) beta 5_16
+    21300036: BB (sprite pack) beta 5_17
+    21300038: BB (sprite pack) beta 5_18
+    21300040: BB (sprite pack) beta 5_19
+    21300042: BB (sprite pack) beta 5_20
+    21300044: BB (sprite pack) beta 5_21
+    21300046: BB (sprite pack) beta 5_22
+    21300048: BB (sprite pack) beta 5_23
+    21300050: BB (sprite pack) beta 5_24
+    21300052: BB (sprite pack) beta 5_25
+    21300054: BB (sprite pack) beta 5_26
+    21300056: BB (sprite pack) beta 5_27
+    21300058: BB (sprite pack) beta 5_28
+    21300060: BB (sprite pack) beta 5_29
+    21300062: BB (sprite pack) beta 5_30
+    21300064: BB (sprite pack) beta 5_31
+    21300066: BB (sprite pack) beta 5_32
+    21300068: BB (sprite pack) beta 5_33
+    21300070: BB (sprite pack) beta 5_34
+    21300072: BB (sprite pack) beta 5_35
+    21300074: BB (sprite pack) beta 5_36
+    21300076: BB (sprite pack) beta 5_37
+    21300078: BB (sprite pack) beta 5_38
+    21300080: BB (sprite pack) beta 5_39
+    21300082: BB (sprite pack) beta 5_40
+    21300084: BB (sprite pack) beta 5_41
+    21300086: BB (sprite pack) beta 5_42
+    21300088: BB (sprite pack) beta 5_43
+    21300090: BB (sprite pack) beta 5_44
+    21300092: BB (sprite pack) beta 5_45
+    21300094: BB (sprite pack)_0
+    21300096: BB (sprite pack)_1
+    21300098: BB (sprite pack)_2
+    21300100: BB (sprite pack)_3
+    21300102: BB (sprite pack)_4
+    21300104: BB (sprite pack)_5
+    21300106: BB (sprite pack)_6
+    21300108: BB (sprite pack)_7
+    21300110: BB (sprite pack)_8
+    21300112: BB (sprite pack)_9
+    21300114: BB (sprite pack)_10
+    21300116: BB (sprite pack)_11
+    21300118: BB (sprite pack)_12
+    21300120: BB (sprite pack)_13
+    21300122: BB (sprite pack)_14
+    21300124: BB (sprite pack)_15
+    21300126: BB (sprite pack)_16
+    21300128: BB (sprite pack)_17
+    21300130: BB (sprite pack)_18
+    21300132: BB (sprite pack)_19
+    21300134: BB (sprite pack)_20
+    21300136: BB (sprite pack)_21
+    21300138: BB (sprite pack)_22
+    21300140: BB (sprite pack)_23
+    21300142: BB (sprite pack)_24
+    21300144: BB (sprite pack)_25
+    21300146: BB (sprite pack)_26
+    21300148: BB (sprite pack)_27
+    21300150: BB (sprite pack)_28
+    21300152: BB (sprite pack)_29
+    21300154: BB (sprite pack)_30
+    21300156: BB (sprite pack)_31
+    21300158: BB (sprite pack)_32
+    21300160: BB (sprite pack)_33
+    21300162: BB (sprite pack)_34
+    21300164: BB (sprite pack)_35
+    21300166: BB (sprite pack)_36
+    21300168: BB (sprite pack)_37
+    21300170: BB (sprite pack)_38
+    21300172: BB (sprite pack)_39
+    21300174: BB (sprite pack)_40
+    21300176: BB (sprite pack)_41
+    21300178: BB (sprite pack)_42
+    21300180: BB (sprite pack)_43
+    21300182: BB (sprite pack)_44
+    21300184: BB (sprite pack)_45
+    21300186: BB (sprite pack)_46
+    21300188: BB (sprite pack)_47
+    21300190: BB (sprite pack)_48
+    21300192: BB (sprite pack)_49
+    21300194: BB (sprite pack)_50
+    21300196: BB (sprite pack)_51
+    21300198: BB (sprite pack)_52
+    21300200: BB (sprite pack)_53
+    21300202: BB (sprite pack)_54
+    21300204: BB (sprite pack)_55
+    21300206: BB (sprite pack)_56
+    21300208: BB (sprite pack)_57
+    21300210: BB (sprite pack)_58
+    21300212: BB (sprite pack)_59
+    21300214: BB (sprite pack)_60
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  - buildTarget: Web
+    maxTextureSize: 4096
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: BB (sprite pack)_0
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2631
+        width: 136
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68, y: 89}
+        - {x: 47, y: 111}
+        - {x: 13, y: 111}
+        - {x: -56, y: 87}
+        - {x: -68, y: 10}
+        - {x: -68, y: -111}
+        - {x: -8, y: -111}
+        - {x: 23, y: -78}
+        - {x: 56, y: -13}
+        - {x: 68, y: 18}
+    - name: BB (sprite pack)_1
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2632
+        width: 136
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55, y: 113.5}
+        - {x: -1, y: 113.5}
+        - {x: -35, y: 102.5}
+        - {x: -64, y: 9.5}
+        - {x: -64, y: -110.5}
+        - {x: -57, y: -113.5}
+        - {x: 31, y: -113.5}
+        - {x: 68, y: 11.5}
+        - {x: 68, y: 98.5}
+      - - {x: -65, y: -33.5}
+        - {x: -65, y: -30.5}
+        - {x: -68, y: -29.5}
+        - {x: -68, y: -34.5}
+    - name: BB (sprite pack)_2
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 2655
+        width: 178
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 89, y: -107.5}
+        - {x: 89, y: -2.5}
+        - {x: 81, y: 0.5}
+        - {x: 68, y: -3.5}
+        - {x: 83, y: 3.5}
+        - {x: 89, y: 25.5}
+        - {x: 89, y: 67.5}
+        - {x: 67, y: 107.5}
+        - {x: 9, y: 107.5}
+        - {x: -84, y: 6.5}
+        - {x: -82, y: -16.5}
+        - {x: -70, y: -34.5}
+        - {x: -89, y: -82.5}
+        - {x: -89, y: -107.5}
+        - {x: -69, y: -107.5}
+        - {x: -62, y: -102.5}
+        - {x: -55, y: -94.5}
+        - {x: -34, y: -107.5}
+    - name: BB (sprite pack)_3
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 2630
+        width: 153
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76.5, y: 16.5}
+        - {x: 76.5, y: 84.5}
+        - {x: 68.5, y: 109.5}
+        - {x: -15.5, y: 109.5}
+        - {x: -76.5, y: -10.5}
+        - {x: -76.5, y: -109.5}
+        - {x: 56.5, y: -109.5}
+        - {x: 52.5, y: -15.5}
+        - {x: 47.5, y: -10.5}
+        - {x: 69.5, y: 11.5}
+    - name: BB (sprite pack)_4
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 2629
+        width: 126
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 108}
+        - {x: -63, y: 70}
+        - {x: -63, y: -106}
+        - {x: -61, y: -108}
+        - {x: 4, y: -108}
+        - {x: 63, y: 5}
+        - {x: 63, y: 84}
+        - {x: 37, y: 108}
+    - name: BB (sprite pack)_5
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 2631
+        width: 125
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.5, y: 113.5}
+        - {x: 8.5, y: 113.5}
+        - {x: -38.5, y: 90.5}
+        - {x: -62.5, y: 5.5}
+        - {x: -62.5, y: -113.5}
+        - {x: 9.5, y: -113.5}
+        - {x: 47.5, y: -66.5}
+        - {x: 62.5, y: -10.5}
+        - {x: 62.5, y: 95.5}
+    - name: BB (sprite pack)_6
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 2657
+        width: 177
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 80.5, y: -0.5}
+        - {x: 68.5, y: -2.5}
+        - {x: 88.5, y: 8.5}
+        - {x: 88.5, y: 73.5}
+        - {x: 75.5, y: 107.5}
+        - {x: -51.5, y: 107.5}
+        - {x: -88.5, y: 9.5}
+        - {x: -88.5, y: -30.5}
+        - {x: -69.5, y: -30.5}
+        - {x: -40.5, y: -25.5}
+        - {x: -88.5, y: -84.5}
+        - {x: -88.5, y: -107.5}
+        - {x: 23.5, y: -107.5}
+        - {x: 51.5, y: -105.5}
+        - {x: 82.5, y: -67.5}
+        - {x: 88.5, y: -34.5}
+        - {x: 88.5, y: -7.5}
+    - name: BB (sprite pack)_7
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 2631
+        width: 155
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 110}
+        - {x: -67.5, y: 56}
+        - {x: -77.5, y: -30}
+        - {x: -77.5, y: -110}
+        - {x: 52.5, y: -110}
+        - {x: 77.5, y: -26}
+        - {x: 77.5, y: 88}
+        - {x: 69.5, y: 110}
+    - name: BB (sprite pack)_8
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2281
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75, y: -18}
+        - {x: 75, y: 91}
+        - {x: 59, y: 101}
+        - {x: 31, y: 101}
+        - {x: -10, y: 95}
+        - {x: -75, y: 17}
+        - {x: -75, y: -101}
+        - {x: -42, y: -101}
+        - {x: -40, y: -95}
+        - {x: -9, y: -101}
+        - {x: 44, y: -101}
+    - name: BB (sprite pack)_9
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 2297
+        width: 123
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 128.5}
+        - {x: -17.5, y: 122.5}
+        - {x: -61.5, y: 77.5}
+        - {x: -61.5, y: -75.5}
+        - {x: -36.5, y: -128.5}
+        - {x: 3.5, y: -128.5}
+        - {x: 10.5, y: -119.5}
+        - {x: 61.5, y: 11.5}
+        - {x: 61.5, y: 98.5}
+        - {x: 26.5, y: 128.5}
+    - name: BB (sprite pack)_10
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 2293
+        width: 123
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 128}
+        - {x: -61.5, y: 83}
+        - {x: -61.5, y: 28}
+        - {x: -44.5, y: -86}
+        - {x: -29.5, y: -121}
+        - {x: -24.5, y: -128}
+        - {x: 1.5, y: -128}
+        - {x: 61.5, y: -2}
+        - {x: 61.5, y: 88}
+        - {x: 37.5, y: 128}
+    - name: BB (sprite pack)_11
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 2295
+        width: 123
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 128}
+        - {x: -61.5, y: 82}
+        - {x: -61.5, y: 14}
+        - {x: -44.5, y: -85}
+        - {x: -31.5, y: -119}
+        - {x: -25.5, y: -128}
+        - {x: 2.5, y: -128}
+        - {x: 61.5, y: 23}
+        - {x: 61.5, y: 85}
+        - {x: 26.5, y: 128}
+    - name: BB (sprite pack)_12
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 2301
+        width: 128
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 116}
+        - {x: -23, y: 109}
+        - {x: -64, y: 35}
+        - {x: -64, y: -10}
+        - {x: -38, y: -109}
+        - {x: -26, y: -116}
+        - {x: 16, y: -116}
+        - {x: 48, y: -99}
+        - {x: 64, y: -33}
+        - {x: 64, y: 116}
+    - name: BB (sprite pack)_13
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 2296
+        width: 123
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 112.5}
+        - {x: -61.5, y: 43.5}
+        - {x: -61.5, y: -24.5}
+        - {x: -36.5, y: -92.5}
+        - {x: -19.5, y: -106.5}
+        - {x: -9.5, y: -112.5}
+        - {x: 24.5, y: -112.5}
+        - {x: 61.5, y: 11.5}
+        - {x: 61.5, y: 78.5}
+        - {x: 40.5, y: 112.5}
+    - name: BB (sprite pack)_14
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 2303
+        width: 123
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 95.5}
+        - {x: -52.5, y: 81.5}
+        - {x: -61.5, y: 31.5}
+        - {x: -61.5, y: -95.5}
+        - {x: 46.5, y: -95.5}
+        - {x: 61.5, y: -18.5}
+        - {x: 61.5, y: 83.5}
+        - {x: 47.5, y: 95.5}
+    - name: BB (sprite pack)_15
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 2283
+        width: 150
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 100.5}
+        - {x: -15, y: 80.5}
+        - {x: -60, y: 15.5}
+        - {x: -65, y: 3.5}
+        - {x: -75, y: -41.5}
+        - {x: -75, y: -100.5}
+        - {x: 59, y: -100.5}
+        - {x: 75, y: -84.5}
+        - {x: 75, y: 100.5}
+    - name: BB (sprite pack)_16
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1929
+        width: 133
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: 17}
+        - {x: 23.5, y: 11}
+        - {x: 27.5, y: 17}
+        - {x: 43.5, y: 31}
+        - {x: 53.5, y: 63}
+        - {x: 11.5, y: 115}
+        - {x: -32.5, y: 115}
+        - {x: -66.5, y: 77}
+        - {x: -66.5, y: -115}
+        - {x: -17.5, y: -115}
+        - {x: -7.5, y: -112}
+        - {x: -8.5, y: -104}
+        - {x: 20.5, y: -115}
+        - {x: 65.5, y: -115}
+        - {x: 66.5, y: -112}
+        - {x: 66.5, y: -9}
+        - {x: 61.5, y: 41}
+    - name: BB (sprite pack)_17
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1930
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 101}
+        - {x: -75, y: 56}
+        - {x: -75, y: -101}
+        - {x: 58, y: -101}
+        - {x: 75, y: -19}
+        - {x: 75, y: 101}
+    - name: BB (sprite pack)_18
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1931
+        width: 192
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: 108.5}
+        - {x: -41, y: 108.5}
+        - {x: -96, y: 56.5}
+        - {x: -96, y: -108.5}
+        - {x: 30, y: -108.5}
+        - {x: 96, y: -33.5}
+        - {x: 96, y: 21.5}
+      - - {x: -77, y: -1.5}
+        - {x: -79, y: -2.5}
+        - {x: -79, y: -6.5}
+        - {x: -78, y: -7.5}
+        - {x: -74, y: -7.5}
+        - {x: -73, y: -5.5}
+        - {x: -73, y: -3.5}
+        - {x: -76, y: -1.5}
+    - name: BB (sprite pack)_19
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1931
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -101}
+        - {x: 47, y: -101}
+        - {x: 52, y: -61}
+        - {x: 47, y: -16}
+        - {x: 36, y: -14}
+        - {x: 27, y: -12}
+        - {x: 74, y: 5}
+        - {x: 75, y: 12}
+        - {x: 75, y: 71}
+        - {x: 57, y: 101}
+        - {x: 3, y: 101}
+        - {x: -75, y: 39}
+        - {x: -75, y: -100}
+        - {x: -74, y: -101}
+        - {x: -41, y: -101}
+        - {x: -43, y: -90}
+    - name: BB (sprite pack)_20
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1931
+        width: 133
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 114.5}
+        - {x: -62.5, y: 86.5}
+        - {x: -66.5, y: 34.5}
+        - {x: -66.5, y: -113.5}
+        - {x: -64.5, y: -114.5}
+        - {x: 66.5, y: -114.5}
+        - {x: 66.5, y: 86.5}
+        - {x: 27.5, y: 114.5}
+    - name: BB (sprite pack)_21
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1580
+        width: 133
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.5, y: 17.5}
+        - {x: 29.5, y: 15.5}
+        - {x: 25.5, y: 11.5}
+        - {x: 46.5, y: 33.5}
+        - {x: 52.5, y: 77.5}
+        - {x: 10.5, y: 114.5}
+        - {x: -31.5, y: 114.5}
+        - {x: -66.5, y: 63.5}
+        - {x: -66.5, y: 57.5}
+        - {x: -57.5, y: 32.5}
+        - {x: -66.5, y: 32.5}
+        - {x: -66.5, y: -114.5}
+        - {x: -9.5, y: -114.5}
+        - {x: -2.5, y: -112.5}
+        - {x: -10.5, y: -100.5}
+        - {x: 28.5, y: -114.5}
+        - {x: 61.5, y: -114.5}
+        - {x: 66.5, y: -112.5}
+        - {x: 66.5, y: -60.5}
+        - {x: 56.5, y: 11.5}
+    - name: BB (sprite pack)_22
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1581
+        width: 189
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.5, y: 111}
+        - {x: -94.5, y: 89}
+        - {x: -94.5, y: -111}
+        - {x: 81.5, y: -111}
+        - {x: 94.5, y: -92}
+        - {x: 94.5, y: 41}
+        - {x: 48.5, y: 42}
+        - {x: -6.5, y: 111}
+    - name: BB (sprite pack)_23
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1579
+        width: 133
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.5, y: 14.5}
+        - {x: 28.5, y: 16.5}
+        - {x: 25.5, y: 11.5}
+        - {x: 19.5, y: 8.5}
+        - {x: 41.5, y: 29.5}
+        - {x: 58.5, y: 27.5}
+        - {x: 32.5, y: 114.5}
+        - {x: -46.5, y: 114.5}
+        - {x: -66.5, y: 46.5}
+        - {x: -66.5, y: -114.5}
+        - {x: -14.5, y: -114.5}
+        - {x: -2.5, y: -112.5}
+        - {x: -12.5, y: -93.5}
+        - {x: 21.5, y: -114.5}
+        - {x: 66.5, y: -114.5}
+        - {x: 66.5, y: -32.5}
+        - {x: 58.5, y: 6.5}
+    - name: BB (sprite pack)_24
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1579
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: -12}
+        - {x: 74, y: 4}
+        - {x: 75, y: 9}
+        - {x: 75, y: 89}
+        - {x: 70, y: 101}
+        - {x: 16, y: 101}
+        - {x: -26, y: 82}
+        - {x: -75, y: 33}
+        - {x: -75, y: -98}
+        - {x: -70, y: -101}
+        - {x: 52, y: -101}
+        - {x: 51, y: -22}
+        - {x: 40, y: -15}
+    - name: BB (sprite pack)_25
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1580
+        width: 191
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: -105.5}
+        - {x: 95.5, y: -18.5}
+        - {x: 95.5, y: 25.5}
+        - {x: 26.5, y: 88.5}
+        - {x: -0.5, y: 108.5}
+        - {x: -30.5, y: 108.5}
+        - {x: -69.5, y: 63.5}
+        - {x: -95.5, y: -32.5}
+        - {x: -95.5, y: -107.5}
+        - {x: -94.5, y: -108.5}
+        - {x: 15.5, y: -108.5}
+      - - {x: -76.5, y: -7.5}
+        - {x: -73.5, y: -6.5}
+        - {x: -73.5, y: -3.5}
+        - {x: -76.5, y: -2.5}
+        - {x: -78.5, y: -4.5}
+    - name: BB (sprite pack)_26
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 1581
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75, y: -34}
+        - {x: 75, y: 91}
+        - {x: 72, y: 101}
+        - {x: -48, y: 101}
+        - {x: -75, y: 53}
+        - {x: -75, y: -101}
+        - {x: 46, y: -101}
+        - {x: 48, y: -100}
+        - {x: 35, y: -87}
+        - {x: 25, y: -79}
+    - name: BB (sprite pack)_27
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 1580
+        width: 133
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.5, y: 13.5}
+        - {x: 38.5, y: 21.5}
+        - {x: 37.5, y: 20.5}
+        - {x: 42.5, y: 31.5}
+        - {x: 46.5, y: 72.5}
+        - {x: 9.5, y: 114.5}
+        - {x: -15.5, y: 114.5}
+        - {x: -66.5, y: 72.5}
+        - {x: -66.5, y: -114.5}
+        - {x: -11.5, y: -114.5}
+        - {x: -8.5, y: -111.5}
+        - {x: -9.5, y: -102.5}
+        - {x: 24.5, y: -114.5}
+        - {x: 65.5, y: -114.5}
+        - {x: 66.5, y: -112.5}
+        - {x: 66.5, y: -33.5}
+        - {x: 58.5, y: -0.5}
+    - name: BB (sprite pack)_28
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1234
+        width: 106
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: 117.5}
+        - {x: -53, y: -117.5}
+        - {x: 53, y: -117.5}
+        - {x: 53, y: 83.5}
+        - {x: 30, y: 117.5}
+    - name: BB (sprite pack)_29
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1239
+        width: 115
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: -117}
+        - {x: 2.5, y: -117}
+        - {x: 2.5, y: -115}
+        - {x: 0.5, y: -113}
+        - {x: -2.5, y: -114}
+      - - {x: 51.5, y: 117}
+        - {x: -45.5, y: 117}
+        - {x: -54.5, y: 102}
+        - {x: -57.5, y: 85}
+        - {x: -57.5, y: -114}
+        - {x: 38.5, y: -114}
+        - {x: 45.5, y: -107}
+        - {x: 57.5, y: -100}
+        - {x: 57.5, y: 104}
+    - name: BB (sprite pack)_30
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1242
+        width: 101
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 123}
+        - {x: -50.5, y: 105}
+        - {x: -50.5, y: -123}
+        - {x: 10.5, y: -123}
+        - {x: 50.5, y: -2}
+        - {x: 50.5, y: 99}
+        - {x: 20.5, y: 123}
+    - name: BB (sprite pack)_31
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1244
+        width: 148
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 12.5}
+        - {x: 37, y: 34.5}
+        - {x: 37, y: 60.5}
+        - {x: 28, y: 98.5}
+        - {x: 15, y: 116.5}
+        - {x: -44, y: 116.5}
+        - {x: -74, y: 74.5}
+        - {x: -74, y: -41.5}
+        - {x: -63, y: -47.5}
+        - {x: -49, y: -43.5}
+        - {x: -45, y: -38.5}
+        - {x: -44, y: -35.5}
+        - {x: -44, y: -32.5}
+        - {x: -48, y: -27.5}
+        - {x: -38, y: -11.5}
+        - {x: -44, y: -33.5}
+        - {x: -45, y: -39.5}
+        - {x: -49, y: -45.5}
+        - {x: -54, y: -52.5}
+        - {x: -74, y: -86.5}
+        - {x: -74, y: -105.5}
+        - {x: -72, y: -111.5}
+        - {x: -70, y: -115.5}
+        - {x: -69, y: -116.5}
+        - {x: 37, y: -116.5}
+        - {x: 37, y: 4.5}
+        - {x: 29, y: 15.5}
+      - - {x: 71, y: 17.5}
+        - {x: 73, y: 15.5}
+        - {x: 74, y: 15.5}
+        - {x: 74, y: 20.5}
+        - {x: 72, y: 20.5}
+    - name: BB (sprite pack)_32
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1242
+        width: 104
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: 114}
+        - {x: 11, y: 122}
+        - {x: -35, y: 122}
+        - {x: -38, y: 121}
+        - {x: -52, y: 80}
+        - {x: -52, y: -117}
+        - {x: -51, y: -122}
+        - {x: 13, y: -122}
+        - {x: 51, y: -72}
+        - {x: 52, y: -56}
+        - {x: 52, y: 86}
+    - name: BB (sprite pack)_33
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 930
+        width: 133
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.5, y: -114.5}
+        - {x: 66.5, y: -114.5}
+        - {x: 66.5, y: -5.5}
+        - {x: 50.5, y: 66.5}
+        - {x: 27.5, y: 114.5}
+        - {x: -32.5, y: 114.5}
+        - {x: -66.5, y: 79.5}
+    - name: BB (sprite pack)_34
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 932
+        width: 122
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61, y: 4.5}
+        - {x: 55, y: 17.5}
+        - {x: 44, y: 16.5}
+        - {x: 29, y: 12.5}
+        - {x: 34, y: 15.5}
+        - {x: 50, y: 30.5}
+        - {x: 61, y: 72.5}
+        - {x: 61, y: 74.5}
+        - {x: 17, y: 113.5}
+        - {x: -27, y: 113.5}
+        - {x: -48, y: 88.5}
+        - {x: -61, y: 54.5}
+        - {x: -61, y: -113.5}
+        - {x: 40, y: -113.5}
+        - {x: 51, y: -101.5}
+        - {x: 61, y: -56.5}
+    - name: BB (sprite pack)_35
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 931
+        width: 127
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 115.5}
+        - {x: -56.5, y: 106.5}
+        - {x: -63.5, y: 92.5}
+        - {x: -63.5, y: -115.5}
+        - {x: 63.5, y: -115.5}
+        - {x: 63.5, y: 64.5}
+        - {x: 11.5, y: 115.5}
+    - name: BB (sprite pack)_36
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 932
+        width: 206
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 99, y: 78}
+        - {x: 40, y: 94}
+        - {x: -89, y: 94}
+        - {x: -103, y: 36}
+        - {x: -103, y: -73}
+        - {x: 17, y: -94}
+        - {x: 103, y: -94}
+        - {x: 103, y: 19}
+        - {x: 102, y: 38}
+    - name: BB (sprite pack)_37
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 930
+        width: 186
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 80.5}
+        - {x: -88, y: 55.5}
+        - {x: -93, y: 19.5}
+        - {x: -93, y: -80.5}
+        - {x: 64, y: -80.5}
+        - {x: 93, y: -71.5}
+        - {x: 93, y: 4.5}
+        - {x: -26, y: 80.5}
+    - name: BB (sprite pack)_38
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 927
+        width: 222
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68, y: 0.5}
+        - {x: 57, y: -6.5}
+        - {x: 57, y: -11.5}
+        - {x: 61, y: -15.5}
+        - {x: 55, y: -11.5}
+        - {x: 41, y: 42.5}
+        - {x: 7, y: 67.5}
+        - {x: -109, y: 67.5}
+        - {x: -111, y: 66.5}
+        - {x: -111, y: -10.5}
+        - {x: -77, y: -67.5}
+        - {x: 41, y: -67.5}
+        - {x: 99, y: -59.5}
+        - {x: 111, y: -40.5}
+        - {x: 111, y: -15.5}
+        - {x: 110, y: -9.5}
+    - name: BB (sprite pack)_39
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 929
+        width: 168
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: 83.5}
+        - {x: -84, y: 76.5}
+        - {x: -84, y: -45.5}
+        - {x: -62, y: -83.5}
+        - {x: 84, y: -83.5}
+        - {x: 84, y: 16.5}
+        - {x: -30, y: 83.5}
+    - name: BB (sprite pack)_40
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 931
+        width: 123
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 97.5}
+        - {x: -30.5, y: 97.5}
+        - {x: -61.5, y: 58.5}
+        - {x: -61.5, y: -66.5}
+        - {x: -50.5, y: -96.5}
+        - {x: -48.5, y: -97.5}
+        - {x: 61.5, y: -97.5}
+        - {x: 61.5, y: 10.5}
+        - {x: 38.5, y: 64.5}
+    - name: BB (sprite pack)_41
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 929
+        width: 133
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: 115}
+        - {x: -66.5, y: 77}
+        - {x: -66.5, y: -115}
+        - {x: 60.5, y: -115}
+        - {x: 66.5, y: -114}
+        - {x: 66.5, y: 55}
+        - {x: 42.5, y: 115}
+    - name: BB (sprite pack)_42
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 585
+        width: 128
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: 116}
+        - {x: -64, y: 113}
+        - {x: -64, y: -116}
+        - {x: 1, y: -116}
+        - {x: 64, y: -18}
+        - {x: 64, y: 79}
+        - {x: 42, y: 116}
+    - name: BB (sprite pack)_43
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 580
+        width: 123
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.5, y: 67.5}
+        - {x: -61.5, y: -37.5}
+        - {x: -45.5, y: -98.5}
+        - {x: -16.5, y: -112.5}
+        - {x: 61.5, y: -112.5}
+        - {x: 61.5, y: 112.5}
+        - {x: -20.5, y: 112.5}
+        - {x: -49.5, y: 103.5}
+    - name: BB (sprite pack)_44
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 583
+        width: 123
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 95.5}
+        - {x: -61.5, y: 31.5}
+        - {x: -61.5, y: -95.5}
+        - {x: 49.5, y: -95.5}
+        - {x: 61.5, y: -42.5}
+        - {x: 61.5, y: 90.5}
+        - {x: 47.5, y: 95.5}
+    - name: BB (sprite pack)_45
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 616
+        width: 205
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: 61.5}
+        - {x: -61.5, y: 61.5}
+        - {x: -75.5, y: 60.5}
+        - {x: -90.5, y: 48.5}
+        - {x: -92.5, y: 17.5}
+        - {x: -102.5, y: -7.5}
+        - {x: -102.5, y: -24.5}
+        - {x: -67.5, y: -45.5}
+        - {x: -66.5, y: -37.5}
+        - {x: -8.5, y: -61.5}
+        - {x: 73.5, y: -61.5}
+        - {x: 79.5, y: -59.5}
+        - {x: 102.5, y: -43.5}
+        - {x: 102.5, y: -10.5}
+        - {x: 94.5, y: 16.5}
+    - name: BB (sprite pack)_46
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 581
+        width: 123
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 102.5}
+        - {x: -31.5, y: 102.5}
+        - {x: -46.5, y: 72.5}
+        - {x: -40.5, y: 66.5}
+        - {x: -36.5, y: 65.5}
+        - {x: -60.5, y: -8.5}
+        - {x: -61.5, y: -15.5}
+        - {x: -61.5, y: -69.5}
+        - {x: -42.5, y: -102.5}
+        - {x: -10.5, y: -102.5}
+        - {x: 15.5, y: -93.5}
+        - {x: 61.5, y: -17.5}
+        - {x: 61.5, y: 57.5}
+        - {x: 58.5, y: 85.5}
+    - name: BB (sprite pack)_47
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 620
+        width: 205
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 61.5}
+        - {x: -102.5, y: 51.5}
+        - {x: -102.5, y: 2.5}
+        - {x: -91.5, y: -18.5}
+        - {x: -17.5, y: -61.5}
+        - {x: 75.5, y: -61.5}
+        - {x: 88.5, y: -60.5}
+        - {x: 102.5, y: -2.5}
+        - {x: 102.5, y: 31.5}
+        - {x: 27.5, y: 61.5}
+    - name: BB (sprite pack)_48
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 582
+        width: 123
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 95.5}
+        - {x: 12.5, y: 94.5}
+        - {x: -16.5, y: 79.5}
+        - {x: -61.5, y: 12.5}
+        - {x: -61.5, y: -54.5}
+        - {x: -57.5, y: -82.5}
+        - {x: -47.5, y: -95.5}
+        - {x: 18.5, y: -95.5}
+        - {x: 61.5, y: -1.5}
+        - {x: 61.5, y: 64.5}
+        - {x: 40.5, y: 95.5}
+    - name: BB (sprite pack)_49
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 580
+        width: 151
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: 100.5}
+        - {x: -6.5, y: 90.5}
+        - {x: -73.5, y: 16.5}
+        - {x: -75.5, y: -3.5}
+        - {x: -75.5, y: -100.5}
+        - {x: 44.5, y: -100.5}
+        - {x: 75.5, y: -13.5}
+        - {x: 75.5, y: 92.5}
+        - {x: 67.5, y: 100.5}
+    - name: BB (sprite pack)_50
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 288
+        width: 151
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60.5, y: -95}
+        - {x: 75.5, y: -35}
+        - {x: 75.5, y: 98}
+        - {x: 65.5, y: 101}
+        - {x: -7.5, y: 101}
+        - {x: -75.5, y: 34}
+        - {x: -75.5, y: -98}
+        - {x: -71.5, y: -101}
+        - {x: -42.5, y: -101}
+        - {x: -41.5, y: -93}
+        - {x: -15.5, y: -101}
+        - {x: 46.5, y: -101}
+    - name: BB (sprite pack)_51
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 338
+        width: 140
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 86}
+        - {x: -9, y: 79}
+        - {x: -68, y: 12}
+        - {x: -70, y: -3}
+        - {x: -70, y: -81}
+        - {x: -57, y: -86}
+        - {x: 18, y: -86}
+        - {x: 70, y: 7}
+        - {x: 70, y: 71}
+        - {x: 68, y: 86}
+    - name: BB (sprite pack)_52
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 336
+        width: 123
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 95.5}
+        - {x: -61.5, y: 21.5}
+        - {x: -61.5, y: -53.5}
+        - {x: -51.5, y: -95.5}
+        - {x: 15.5, y: -95.5}
+        - {x: 61.5, y: -22.5}
+        - {x: 61.5, y: 82.5}
+        - {x: 44.5, y: 95.5}
+    - name: BB (sprite pack)_53
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 284
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 101}
+        - {x: -5, y: 91}
+        - {x: -69, y: 16}
+        - {x: -75, y: -37}
+        - {x: -75, y: -101}
+        - {x: 65, y: -101}
+        - {x: 75, y: -57}
+        - {x: 75, y: 83}
+        - {x: 69, y: 101}
+    - name: BB (sprite pack)_54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 39
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: -87}
+        - {x: 75, y: -22}
+        - {x: 75, y: 101}
+        - {x: -15, y: 101}
+        - {x: -75, y: 52}
+        - {x: -75, y: -101}
+        - {x: 23, y: -101}
+        - {x: 33, y: -100}
+        - {x: 37, y: -97}
+    - name: BB (sprite pack)_55
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 89
+        width: 140
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 86.5}
+        - {x: -68, y: 11.5}
+        - {x: -70, y: -1.5}
+        - {x: -70, y: -80.5}
+        - {x: -59, y: -86.5}
+        - {x: 32, y: -86.5}
+        - {x: 70, y: -3.5}
+        - {x: 70, y: 80.5}
+        - {x: 63, y: 86.5}
+    - name: BB (sprite pack)_56
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 87
+        width: 123
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 95.5}
+        - {x: -17.5, y: 84.5}
+        - {x: -61.5, y: 20.5}
+        - {x: -61.5, y: -64.5}
+        - {x: -56.5, y: -95.5}
+        - {x: 17.5, y: -95.5}
+        - {x: 61.5, y: 1.5}
+        - {x: 61.5, y: 65.5}
+        - {x: 44.5, y: 95.5}
+    - name: BB (sprite pack)_57
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 39
+        width: 140
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 97.5}
+        - {x: -61, y: 70.5}
+        - {x: -70, y: 33.5}
+        - {x: -70, y: -97.5}
+        - {x: 58, y: -97.5}
+        - {x: 70, y: -78.5}
+        - {x: 70, y: 62.5}
+        - {x: 51, y: 97.5}
+    - name: BB (sprite pack)_58
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 36
+        width: 143
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: 83}
+        - {x: -7.5, y: 69}
+        - {x: -24.5, y: 58}
+        - {x: -71.5, y: -33}
+        - {x: -71.5, y: -83}
+        - {x: 50.5, y: -83}
+        - {x: 71.5, y: -23}
+        - {x: 71.5, y: 77}
+        - {x: 70.5, y: 83}
+    - name: BB (sprite pack)_59
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 31
+        width: 201
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96.5, y: -68}
+        - {x: -97.5, y: -65}
+        - {x: -100.5, y: -65}
+        - {x: -100.5, y: -68}
+      - - {x: 80.5, y: 68}
+        - {x: -7.5, y: 68}
+        - {x: -98.5, y: -24}
+        - {x: -98.5, y: -57}
+        - {x: -96.5, y: -59}
+        - {x: -85.5, y: -64}
+        - {x: 8.5, y: -64}
+        - {x: 90.5, y: -30}
+        - {x: 100.5, y: 3}
+        - {x: 100.5, y: 47}
+        - {x: 89.5, y: 66}
+    - name: BB (sprite pack)_60
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 39
+        width: 228
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 84, y: 47.5}
+        - {x: 8, y: 47.5}
+        - {x: -86, y: 20.5}
+        - {x: -86, y: -47.5}
+        - {x: 112, y: -47.5}
+        - {x: 114, y: -44.5}
+        - {x: 114, y: 4.5}
+        - {x: 91, y: 43.5}
+      - - {x: -111, y: -21.5}
+        - {x: -111, y: -18.5}
+        - {x: -114, y: -17.5}
+        - {x: -114, y: -22.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

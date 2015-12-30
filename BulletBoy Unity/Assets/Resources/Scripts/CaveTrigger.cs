@@ -11,6 +11,7 @@ public class CaveTrigger : MonoBehaviour
     private float alphaColor = 1;
     private float numberTrigger;
     public CircleCollider2D playerCircleCol;
+    public GameObject blackBackground;
 
     // Use this for initialization
     void Start()
@@ -22,6 +23,7 @@ public class CaveTrigger : MonoBehaviour
         Physics2D.IgnoreCollision(this.GetComponent<BoxCollider2D>(), playerCircleCol);
         if (inCave)
         {
+            blackBackground.SetActive(true);
             alphaColor -= 0.3f * Time.deltaTime;
             if (alphaColor <= 0)
             {
@@ -30,6 +32,7 @@ public class CaveTrigger : MonoBehaviour
         }
         else
         {
+            blackBackground.SetActive(false);
             alphaColor += 0.3f * Time.deltaTime;
             if (alphaColor >= 1)
             {
