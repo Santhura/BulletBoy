@@ -1,0 +1,19 @@
+
+Fixxes:
+	camera more smoothing
+	player over de grond schuiven
+	dubble jump fixen
+	
+	stenen scherpen
+	planten goed neer zetten
+	
+	player walk animatie
+
+	cannon schieten goed
+
+	add battle system with enemy damage
+	cave darker background
+
+	player running animation editten
+
+	items groter maken voortaan

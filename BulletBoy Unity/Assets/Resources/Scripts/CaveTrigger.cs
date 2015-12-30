@@ -30,7 +30,11 @@ public class CaveTrigger : MonoBehaviour
         }
         else
         {
-            alphaColor = 1;
+            alphaColor += 0.3f * Time.deltaTime;
+            if (alphaColor >= 1)
+            {
+                alphaColor = 1;
+            }
         }
         alphaMountain.color = new Color(1, 1, 1, alphaColor);
     }
