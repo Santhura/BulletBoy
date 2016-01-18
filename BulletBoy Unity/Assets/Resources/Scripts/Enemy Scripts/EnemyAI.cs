@@ -67,9 +67,10 @@ public abstract class EnemyAI : MonoBehaviour {
 
     void EnemyBehavior()
     {
+        anim.SetTrigger("Walk");
+
         if (walkingRight)
         {
-            anim.SetTrigger("Walk");
             transform.Translate(-Vector2.right * speed * Time.deltaTime);
             if (enemyType == "Spike")
             {
@@ -85,7 +86,6 @@ public abstract class EnemyAI : MonoBehaviour {
         }
         else
         {
-            anim.SetTrigger("Walk");
             transform.Translate(Vector2.right * speed * Time.deltaTime);
             if (enemyType == "Spike")
             {

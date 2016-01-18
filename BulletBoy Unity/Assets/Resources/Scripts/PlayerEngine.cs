@@ -4,19 +4,22 @@ using System.Collections;
 public class PlayerEngine : MonoBehaviour
 {
 
-    private float _speed = 10f; // walking speed
-    public string walkInput; // Horizontal
-    Rigidbody2D rb;
+    private float _speed = 10f;                 // walking speed
+    public string walkInput;                    // Horizontal
+    Rigidbody2D rb;                             // Player rigidbody
 
     [Header("Jumping")]
-    public float jumpForce;
-    public Transform groundCheck;
-    private float radius = 0.2f;
-    public bool grounded = false;
-    public LayerMask whatIsGround; // all layers of what is ground 
-    private int _jumps = 0, _maxJumps = 2; // maximum of jumps
+    public float jumpForce;                     // the force it gives the player to jump
+    public Transform groundCheck;               // check if the player stands on ground
+    private float radius = 0.2f;                // the radius to check where the ground is
+    public bool grounded = false;               // boolean to check if the player is on the ground
+    public LayerMask whatIsGround;              // all layers of what is ground 
+    private int _jumps = 0, _maxJumps = 2;      // maximum of jumps
 
-    Animator anim;
+    Animator anim;                              // the animator of the player
+
+
+    public int heartAmount = 0;
 
     void Awake()
     {
@@ -85,4 +88,19 @@ public class PlayerEngine : MonoBehaviour
 
         }
     }
+
+    private void HealthPoints()
+    {
+        if (EnemyCollision.playerHit && !UIManager.gotHeart)
+        {
+            
+            Destroy(gameObject);
+        }
+        else if (EnemyCollision.playerHit && UIManager.gotHeart)
+        {
+            heartAmount = 0;
+            UIManager.gotHeart = false;
+        }
+    }
+
 }
