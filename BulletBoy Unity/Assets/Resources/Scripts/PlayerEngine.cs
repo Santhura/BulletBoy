@@ -55,7 +55,7 @@ public class PlayerEngine : MonoBehaviour
     {
         anim.SetFloat("Speed", Mathf.Abs(Input.GetAxis(walkInput))); // when there is input play anitmation
         // printing
-        if (Input.GetKey(KeyCode.LeftShift) || Input.GetAxis("Sprint") > .1f)
+        if (Input.GetKey(KeyCode.LeftShift) || Input.GetButton("Sprint") && grounded)
         {
             _speed = 20f;
             if (Input.GetAxis(walkInput) < -.1f) // !! Also have to put in the button for controller movement!!
@@ -84,7 +84,11 @@ public class PlayerEngine : MonoBehaviour
             }
         }
 
-        Debug.Log(_speed);
+        if(Input.GetButtonDown("Fire1"))
+        {
+            Attack();
+        }
+
         if (Input.GetButtonDown("Jump") && _jumps < _maxJumps) // when press on the jump button activate Jump method
         {
             Jump();
@@ -108,6 +112,14 @@ public class PlayerEngine : MonoBehaviour
         {
 
         }
+    }
+
+    /// <summary>
+    /// does a punch attack 
+    /// </summary>
+    private void Attack()
+    {
+        anim.SetTrigger("Attack");
     }
 
     private void HealthPoints()
