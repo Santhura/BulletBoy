@@ -54,16 +54,37 @@ public class PlayerEngine : MonoBehaviour
     private void Movement()
     {
         anim.SetFloat("Speed", Mathf.Abs(Input.GetAxis(walkInput))); // when there is input play anitmation
-        if (Input.GetAxis(walkInput) < -.1f) // !! Also have to put in the button for controller movement!!
+        // printing
+        if (Input.GetKey(KeyCode.LeftShift) || Input.GetAxis("Sprint") > .1f)
         {
-            transform.localScale = new Vector3(-1, 1, 1);// change the sprite to the right direction
-            transform.Translate(-Vector2.right * _speed * Time.deltaTime); // move the player to the left
+            _speed = 20f;
+            if (Input.GetAxis(walkInput) < -.1f) // !! Also have to put in the button for controller movement!!
+            {
+                transform.localScale = new Vector3(-1, 1, 1);// change the sprite to the right direction
+                transform.Translate(-Vector2.right * _speed * Time.deltaTime); // move the player to the left
+            }
+            else if (Input.GetAxis(walkInput) > .1f)// !! also have to put in the button for controller movement !!
+            {
+                transform.localScale = new Vector3(1, 1, 1); // change the sprite to the right direction
+                transform.Translate(Vector2.right * _speed * Time.deltaTime); // move the player to the right
+            }
+
         }
-        else if (Input.GetAxis(walkInput) > .1f)// !! also have to put in the button for controller movement !!
-        {
-            transform.localScale = new Vector3(1, 1, 1); // change the sprite to the right direction
-            transform.Translate(Vector2.right * _speed * Time.deltaTime); // move the player to the right
+        else {
+            _speed = 10f;
+            if (Input.GetAxis(walkInput) < -.1f) // !! Also have to put in the button for controller movement!!
+            {
+                transform.localScale = new Vector3(-1, 1, 1);// change the sprite to the right direction
+                transform.Translate(-Vector2.right * _speed * Time.deltaTime); // move the player to the left
+            }
+            else if (Input.GetAxis(walkInput) > .1f)// !! also have to put in the button for controller movement !!
+            {
+                transform.localScale = new Vector3(1, 1, 1); // change the sprite to the right direction
+                transform.Translate(Vector2.right * _speed * Time.deltaTime); // move the player to the right
+            }
         }
+
+        Debug.Log(_speed);
         if (Input.GetButtonDown("Jump") && _jumps < _maxJumps) // when press on the jump button activate Jump method
         {
             Jump();
